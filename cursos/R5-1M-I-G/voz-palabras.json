@@ -1,0 +1,1040 @@
+{
+ "voz": "Gala Wi5NZQRxyOb3Jx4r0hrI",
+ "modelo": "eleven_v4",
+ "flow": "7BQClzkFATlGSx5QFCL5",
+ "tomas": {
+  "g1": {
+   "historyItemId": "IFq71Sahf9SX3q9QzMC9",
+   "duracion_s": 18.72,
+   "audio": "cursos/R5-1M-I-G/audio/g1.mp3 (⏳ bajar por el Mac)",
+   "words": [
+    {
+     "text": "En",
+     "start": 0.0,
+     "end": 0.16
+    },
+    {
+     "text": "el",
+     "start": 0.2,
+     "end": 0.24
+    },
+    {
+     "text": "capítulo",
+     "start": 0.32,
+     "end": 0.72
+    },
+    {
+     "text": "dos",
+     "start": 0.8,
+     "end": 1.04
+    },
+    {
+     "text": "pusiste",
+     "start": 1.2,
+     "end": 1.6
+    },
+    {
+     "text": "el",
+     "start": 1.68,
+     "end": 1.76
+    },
+    {
+     "text": "cuándo",
+     "start": 1.92,
+     "end": 2.24
+    },
+    {
+     "text": "de",
+     "start": 2.32,
+     "end": 2.4
+    },
+    {
+     "text": "un",
+     "start": 2.44,
+     "end": 2.48
+    },
+    {
+     "text": "tratamiento.",
+     "start": 2.56,
+     "end": 3.28
+    },
+    {
+     "text": "Ahora,",
+     "start": 3.68,
+     "end": 4.16
+    },
+    {
+     "text": "de",
+     "start": 4.24,
+     "end": 4.32
+    },
+    {
+     "text": "todos",
+     "start": 4.48,
+     "end": 4.72
+    },
+    {
+     "text": "los",
+     "start": 4.8,
+     "end": 4.88
+    },
+    {
+     "text": "que",
+     "start": 4.96,
+     "end": 5.04
+    },
+    {
+     "text": "haces,",
+     "start": 5.12,
+     "end": 5.6
+    },
+    {
+     "text": "hasta",
+     "start": 5.64,
+     "end": 5.84
+    },
+    {
+     "text": "diez.",
+     "start": 5.92,
+     "end": 6.32
+    },
+    {
+     "text": "Para",
+     "start": 6.72,
+     "end": 6.88
+    },
+    {
+     "text": "cada",
+     "start": 6.96,
+     "end": 7.12
+    },
+    {
+     "text": "uno,",
+     "start": 7.2,
+     "end": 7.6
+    },
+    {
+     "text": "la",
+     "start": 7.64,
+     "end": 7.68
+    },
+    {
+     "text": "revisión",
+     "start": 7.76,
+     "end": 8.32
+    },
+    {
+     "text": "y",
+     "start": 8.4,
+     "end": 8.48
+    },
+    {
+     "text": "la",
+     "start": 8.52,
+     "end": 8.56
+    },
+    {
+     "text": "repetición,",
+     "start": 8.64,
+     "end": 9.6
+    },
+    {
+     "text": "y",
+     "start": 9.627,
+     "end": 9.653
+    },
+    {
+     "text": "el",
+     "start": 9.68,
+     "end": 9.76
+    },
+    {
+     "text": "mensaje",
+     "start": 10.0,
+     "end": 10.24
+    },
+    {
+     "text": "de",
+     "start": 10.32,
+     "end": 10.4
+    },
+    {
+     "text": "«te",
+     "start": 10.56,
+     "end": 10.72
+    },
+    {
+     "text": "toca»",
+     "start": 10.8,
+     "end": 11.36
+    },
+    {
+     "text": "con",
+     "start": 11.44,
+     "end": 11.52
+    },
+    {
+     "text": "tus",
+     "start": 11.56,
+     "end": 11.68
+    },
+    {
+     "text": "palabras.",
+     "start": 11.76,
+     "end": 12.32
+    },
+    {
+     "text": "El",
+     "start": 12.8,
+     "end": 12.88
+    },
+    {
+     "text": "intervalo",
+     "start": 12.96,
+     "end": 13.4
+    },
+    {
+     "text": "lo",
+     "start": 13.44,
+     "end": 13.52
+    },
+    {
+     "text": "pones",
+     "start": 13.6,
+     "end": 13.84
+    },
+    {
+     "text": "tú,",
+     "start": 13.88,
+     "end": 14.24
+    },
+    {
+     "text": "que",
+     "start": 14.28,
+     "end": 14.32
+    },
+    {
+     "text": "eres",
+     "start": 14.4,
+     "end": 14.56
+    },
+    {
+     "text": "el",
+     "start": 14.64,
+     "end": 14.72
+    },
+    {
+     "text": "médico",
+     "start": 14.8,
+     "end": 15.04
+    },
+    {
+     "text": "responsable.",
+     "start": 15.24,
+     "end": 15.84
+    },
+    {
+     "text": "Al",
+     "start": 16.24,
+     "end": 16.32
+    },
+    {
+     "text": "final",
+     "start": 16.4,
+     "end": 16.64
+    },
+    {
+     "text": "lo",
+     "start": 16.68,
+     "end": 16.72
+    },
+    {
+     "text": "descargas",
+     "start": 16.8,
+     "end": 17.44
+    },
+    {
+     "text": "y",
+     "start": 17.52,
+     "end": 17.56
+    },
+    {
+     "text": "se",
+     "start": 17.6,
+     "end": 17.68
+    },
+    {
+     "text": "lo",
+     "start": 17.76,
+     "end": 17.8
+    },
+    {
+     "text": "das",
+     "start": 17.84,
+     "end": 18.0
+    },
+    {
+     "text": "a",
+     "start": 18.04,
+     "end": 18.08
+    },
+    {
+     "text": "tu",
+     "start": 18.12,
+     "end": 18.16
+    },
+    {
+     "text": "equipo.",
+     "start": 18.24,
+     "end": 18.8
+    }
+   ]
+  },
+  "g2": {
+   "historyItemId": "me7GXJ3VdFDfvcJkAMLK",
+   "duracion_s": 18.64,
+   "audio": "cursos/R5-1M-I-G/audio/g2.mp3 (⏳ bajar por el Mac)",
+   "words": [
+    {
+     "text": "Abre",
+     "start": 0.0,
+     "end": 0.24
+    },
+    {
+     "text": "tu",
+     "start": 0.28,
+     "end": 0.32
+    },
+    {
+     "text": "agenda",
+     "start": 0.4,
+     "end": 0.72
+    },
+    {
+     "text": "de",
+     "start": 0.8,
+     "end": 0.88
+    },
+    {
+     "text": "hace",
+     "start": 0.933,
+     "end": 1.04
+    },
+    {
+     "text": "seis",
+     "start": 1.2,
+     "end": 1.44
+    },
+    {
+     "text": "meses",
+     "start": 1.52,
+     "end": 1.92
+    },
+    {
+     "text": "y",
+     "start": 2.08,
+     "end": 2.12
+    },
+    {
+     "text": "elige",
+     "start": 2.16,
+     "end": 2.48
+    },
+    {
+     "text": "veinte",
+     "start": 2.64,
+     "end": 2.88
+    },
+    {
+     "text": "pacientes",
+     "start": 2.96,
+     "end": 3.36
+    },
+    {
+     "text": "que",
+     "start": 3.44,
+     "end": 3.52
+    },
+    {
+     "text": "trataste.",
+     "start": 3.56,
+     "end": 4.16
+    },
+    {
+     "text": "Sin",
+     "start": 4.56,
+     "end": 4.72
+    },
+    {
+     "text": "nombres:",
+     "start": 4.76,
+     "end": 5.52
+    },
+    {
+     "text": "paciente",
+     "start": 5.6,
+     "end": 5.92
+    },
+    {
+     "text": "uno,",
+     "start": 6.0,
+     "end": 6.48
+    },
+    {
+     "text": "paciente",
+     "start": 6.56,
+     "end": 6.88
+    },
+    {
+     "text": "dos.",
+     "start": 6.96,
+     "end": 7.36
+    },
+    {
+     "text": "Para",
+     "start": 7.84,
+     "end": 8.0
+    },
+    {
+     "text": "cada",
+     "start": 8.04,
+     "end": 8.24
+    },
+    {
+     "text": "uno,",
+     "start": 8.32,
+     "end": 8.8
+    },
+    {
+     "text": "si",
+     "start": 8.88,
+     "end": 8.96
+    },
+    {
+     "text": "tenía",
+     "start": 9.04,
+     "end": 9.28
+    },
+    {
+     "text": "revisión",
+     "start": 9.36,
+     "end": 9.92
+    },
+    {
+     "text": "o",
+     "start": 9.96,
+     "end": 10.0
+    },
+    {
+     "text": "repetición",
+     "start": 10.08,
+     "end": 10.56
+    },
+    {
+     "text": "en",
+     "start": 10.6,
+     "end": 10.64
+    },
+    {
+     "text": "su",
+     "start": 10.72,
+     "end": 10.8
+    },
+    {
+     "text": "plan,",
+     "start": 10.88,
+     "end": 11.44
+    },
+    {
+     "text": "si",
+     "start": 11.52,
+     "end": 11.6
+    },
+    {
+     "text": "ha",
+     "start": 11.64,
+     "end": 11.68
+    },
+    {
+     "text": "vuelto",
+     "start": 11.76,
+     "end": 12.16
+    },
+    {
+     "text": "y",
+     "start": 12.32,
+     "end": 12.4
+    },
+    {
+     "text": "si",
+     "start": 12.44,
+     "end": 12.48
+    },
+    {
+     "text": "tiene",
+     "start": 12.56,
+     "end": 12.8
+    },
+    {
+     "text": "cita.",
+     "start": 12.84,
+     "end": 13.2
+    },
+    {
+     "text": "Al",
+     "start": 13.68,
+     "end": 13.84
+    },
+    {
+     "text": "final",
+     "start": 13.96,
+     "end": 14.08
+    },
+    {
+     "text": "te",
+     "start": 14.16,
+     "end": 14.24
+    },
+    {
+     "text": "digo",
+     "start": 14.32,
+     "end": 14.48
+    },
+    {
+     "text": "cuántos",
+     "start": 14.64,
+     "end": 15.04
+    },
+    {
+     "text": "deberían",
+     "start": 15.08,
+     "end": 15.44
+    },
+    {
+     "text": "haber",
+     "start": 15.48,
+     "end": 15.6
+    },
+    {
+     "text": "vuelto.",
+     "start": 15.68,
+     "end": 16.48
+    },
+    {
+     "text": "Ese",
+     "start": 16.52,
+     "end": 16.72
+    },
+    {
+     "text": "número",
+     "start": 16.76,
+     "end": 17.2
+    },
+    {
+     "text": "es",
+     "start": 17.28,
+     "end": 17.36
+    },
+    {
+     "text": "tu",
+     "start": 17.44,
+     "end": 17.52
+    },
+    {
+     "text": "punto",
+     "start": 17.6,
+     "end": 17.84
+    },
+    {
+     "text": "de",
+     "start": 17.88,
+     "end": 17.92
+    },
+    {
+     "text": "partida.",
+     "start": 18.0,
+     "end": 18.72
+    }
+   ]
+  },
+  "g3": {
+   "historyItemId": "IV2zYrWJ6CDBzN1UiAUB",
+   "duracion_s": 17.68,
+   "audio": "cursos/R5-1M-I-G/audio/g3.mp3 (⏳ bajar por el Mac)",
+   "words": [
+    {
+     "text": "Para",
+     "start": 0.0,
+     "end": 0.16
+    },
+    {
+     "text": "escribir",
+     "start": 0.24,
+     "end": 0.56
+    },
+    {
+     "text": "a",
+     "start": 0.587,
+     "end": 0.613
+    },
+    {
+     "text": "un",
+     "start": 0.64,
+     "end": 0.68
+    },
+    {
+     "text": "paciente",
+     "start": 0.72,
+     "end": 1.2
+    },
+    {
+     "text": "con",
+     "start": 1.28,
+     "end": 1.44
+    },
+    {
+     "text": "algo",
+     "start": 1.56,
+     "end": 1.68
+    },
+    {
+     "text": "que",
+     "start": 1.76,
+     "end": 1.84
+    },
+    {
+     "text": "no",
+     "start": 2.0,
+     "end": 2.08
+    },
+    {
+     "text": "es",
+     "start": 2.16,
+     "end": 2.24
+    },
+    {
+     "text": "su",
+     "start": 2.28,
+     "end": 2.32
+    },
+    {
+     "text": "tratamiento",
+     "start": 2.4,
+     "end": 3.04
+    },
+    {
+     "text": "necesitas",
+     "start": 3.28,
+     "end": 3.84
+    },
+    {
+     "text": "su",
+     "start": 3.92,
+     "end": 4.0
+    },
+    {
+     "text": "permiso,",
+     "start": 4.12,
+     "end": 4.88
+    },
+    {
+     "text": "que",
+     "start": 4.96,
+     "end": 5.04
+    },
+    {
+     "text": "también",
+     "start": 5.093,
+     "end": 5.36
+    },
+    {
+     "text": "se",
+     "start": 5.44,
+     "end": 5.52
+    },
+    {
+     "text": "llama",
+     "start": 5.56,
+     "end": 5.76
+    },
+    {
+     "text": "consentimiento.",
+     "start": 5.92,
+     "end": 6.88
+    },
+    {
+     "text": "Vamos",
+     "start": 7.44,
+     "end": 7.68
+    },
+    {
+     "text": "a",
+     "start": 7.72,
+     "end": 7.76
+    },
+    {
+     "text": "ver",
+     "start": 7.84,
+     "end": 7.92
+    },
+    {
+     "text": "cómo",
+     "start": 8.08,
+     "end": 8.24
+    },
+    {
+     "text": "se",
+     "start": 8.32,
+     "end": 8.4
+    },
+    {
+     "text": "pide",
+     "start": 8.48,
+     "end": 8.64
+    },
+    {
+     "text": "bien:",
+     "start": 8.68,
+     "end": 9.44
+    },
+    {
+     "text": "una",
+     "start": 9.52,
+     "end": 9.68
+    },
+    {
+     "text": "casilla",
+     "start": 9.8,
+     "end": 10.16
+    },
+    {
+     "text": "que",
+     "start": 10.24,
+     "end": 10.32
+    },
+    {
+     "text": "marca",
+     "start": 10.48,
+     "end": 10.64
+    },
+    {
+     "text": "él,",
+     "start": 10.8,
+     "end": 11.36
+    },
+    {
+     "text": "separada",
+     "start": 11.44,
+     "end": 11.84
+    },
+    {
+     "text": "del",
+     "start": 11.92,
+     "end": 12.0
+    },
+    {
+     "text": "consentimiento",
+     "start": 12.08,
+     "end": 12.72
+    },
+    {
+     "text": "del",
+     "start": 12.8,
+     "end": 12.88
+    },
+    {
+     "text": "tratamiento,",
+     "start": 12.92,
+     "end": 13.92
+    },
+    {
+     "text": "y",
+     "start": 14.0,
+     "end": 14.04
+    },
+    {
+     "text": "una",
+     "start": 14.08,
+     "end": 14.24
+    },
+    {
+     "text": "forma",
+     "start": 14.32,
+     "end": 14.56
+    },
+    {
+     "text": "fácil",
+     "start": 14.72,
+     "end": 15.04
+    },
+    {
+     "text": "de",
+     "start": 15.12,
+     "end": 15.16
+    },
+    {
+     "text": "darse",
+     "start": 15.2,
+     "end": 15.44
+    },
+    {
+     "text": "de",
+     "start": 15.52,
+     "end": 15.6
+    },
+    {
+     "text": "baja.",
+     "start": 15.64,
+     "end": 16.48
+    },
+    {
+     "text": "Y",
+     "start": 16.52,
+     "end": 16.56
+    },
+    {
+     "text": "lo",
+     "start": 16.6,
+     "end": 16.64
+    },
+    {
+     "text": "que",
+     "start": 16.72,
+     "end": 16.88
+    },
+    {
+     "text": "no",
+     "start": 16.96,
+     "end": 17.04
+    },
+    {
+     "text": "vale.",
+     "start": 17.12,
+     "end": 17.76
+    }
+   ]
+  },
+  "cierre": {
+   "historyItemId": "Rf5QrFwrvlvE6K7VXNCG",
+   "duracion_s": 13.76,
+   "audio": "cursos/R5-1M-I-G/audio/cierre.mp3 (⏳ bajar por el Mac)",
+   "words": [
+    {
+     "text": "Ya",
+     "start": 0.0,
+     "end": 0.16
+    },
+    {
+     "text": "sabes",
+     "start": 0.24,
+     "end": 0.56
+    },
+    {
+     "text": "cuántos",
+     "start": 0.64,
+     "end": 0.96
+    },
+    {
+     "text": "deberían",
+     "start": 1.04,
+     "end": 1.36
+    },
+    {
+     "text": "haber",
+     "start": 1.44,
+     "end": 1.6
+    },
+    {
+     "text": "vuelto",
+     "start": 1.68,
+     "end": 2.08
+    },
+    {
+     "text": "y",
+     "start": 2.16,
+     "end": 2.24
+    },
+    {
+     "text": "cuándo",
+     "start": 2.4,
+     "end": 2.68
+    },
+    {
+     "text": "le",
+     "start": 2.72,
+     "end": 2.8
+    },
+    {
+     "text": "toca",
+     "start": 2.88,
+     "end": 3.04
+    },
+    {
+     "text": "a",
+     "start": 3.08,
+     "end": 3.12
+    },
+    {
+     "text": "cada",
+     "start": 3.2,
+     "end": 3.36
+    },
+    {
+     "text": "tratamiento.",
+     "start": 3.44,
+     "end": 4.32
+    },
+    {
+     "text": "Hoy",
+     "start": 4.56,
+     "end": 4.8
+    },
+    {
+     "text": "te",
+     "start": 4.88,
+     "end": 4.96
+    },
+    {
+     "text": "acuerdas",
+     "start": 5.04,
+     "end": 5.44
+    },
+    {
+     "text": "tú",
+     "start": 5.52,
+     "end": 5.6
+    },
+    {
+     "text": "de",
+     "start": 5.64,
+     "end": 5.68
+    },
+    {
+     "text": "quién",
+     "start": 5.84,
+     "end": 6.0
+    },
+    {
+     "text": "tiene",
+     "start": 6.08,
+     "end": 6.24
+    },
+    {
+     "text": "que",
+     "start": 6.28,
+     "end": 6.32
+    },
+    {
+     "text": "repetir.",
+     "start": 6.4,
+     "end": 6.88
+    },
+    {
+     "text": "Con",
+     "start": 7.2,
+     "end": 7.28
+    },
+    {
+     "text": "Volvera,",
+     "start": 7.36,
+     "end": 7.92
+    },
+    {
+     "text": "se",
+     "start": 8.0,
+     "end": 8.08
+    },
+    {
+     "text": "lo",
+     "start": 8.12,
+     "end": 8.16
+    },
+    {
+     "text": "recuerda",
+     "start": 8.24,
+     "end": 8.56
+    },
+    {
+     "text": "por",
+     "start": 8.64,
+     "end": 8.72
+    },
+    {
+     "text": "WhatsApp",
+     "start": 8.8,
+     "end": 9.2
+    },
+    {
+     "text": "cuando",
+     "start": 9.28,
+     "end": 9.44
+    },
+    {
+     "text": "le",
+     "start": 9.52,
+     "end": 9.6
+    },
+    {
+     "text": "toca.",
+     "start": 9.68,
+     "end": 10.0
+    },
+    {
+     "text": "Y",
+     "start": 10.32,
+     "end": 10.4
+    },
+    {
+     "text": "cada",
+     "start": 10.44,
+     "end": 10.64
+    },
+    {
+     "text": "lunes,",
+     "start": 10.72,
+     "end": 11.28
+    },
+    {
+     "text": "Volvera",
+     "start": 11.32,
+     "end": 11.68
+    },
+    {
+     "text": "te",
+     "start": 11.72,
+     "end": 11.76
+    },
+    {
+     "text": "enseña",
+     "start": 11.84,
+     "end": 12.16
+    },
+    {
+     "text": "tu",
+     "start": 12.24,
+     "end": 12.32
+    },
+    {
+     "text": "camino",
+     "start": 12.4,
+     "end": 12.64
+    },
+    {
+     "text": "con",
+     "start": 12.72,
+     "end": 12.88
+    },
+    {
+     "text": "tus",
+     "start": 12.92,
+     "end": 13.04
+    },
+    {
+     "text": "números.",
+     "start": 13.12,
+     "end": 13.84
+    }
+   ]
+  }
+ }
+}

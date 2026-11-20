@@ -1,0 +1,60 @@
+{
+ "chap": "CAPÍTULO 2 · VUELVE",
+ "items": [
+  {
+   "at": "sabes",
+   "lead": 0.3,
+   "x": 0,
+   "y": 0,
+   "cls": "h",
+   "html": "Cada tratamiento",
+   "out_at": "Cinco"
+  },
+  {
+   "at": "toca",
+   "x": 0,
+   "y": 46,
+   "cls": "h",
+   "html": "<span class=\"a\">tiene su cuándo.</span>",
+   "out_at": "Cinco"
+  },
+  {
+   "at": "problema",
+   "x": 0,
+   "y": 130,
+   "w": 560,
+   "cls": "p",
+   "html": "El problema: <b>lo sabes tú</b>, y no está escrito en ningún sitio.",
+   "out_at": "Cinco"
+  },
+  {
+   "at": "Cinco",
+   "x": 0,
+   "y": 0,
+   "cls": "h",
+   "html": "Tu calendario <span class=\"a\">de vuelta</span>"
+  },
+  {
+   "at": "columnas",
+   "x": 0,
+   "y": 70,
+   "w": 540,
+   "html": "<div class=\"card\"><span class=\"tag ej\">Ejemplo de tabla</span><table class=\"t\" style=\"margin-top:8px\"><tr><th>Tratamiento</th><th>Revisión a los…</th><th>Suele repetirse a los…</th></tr><tr><td>Tratamiento 1</td><td class=\"you\">lo pones tú</td><td class=\"you\">lo pones tú</td></tr><tr><td>Tratamiento 2</td><td class=\"you\">lo pones tú</td><td class=\"you\">lo pones tú</td></tr><tr><td>Tratamiento 3</td><td class=\"you\">lo pones tú</td><td class=\"you\">lo pones tú</td></tr></table></div>"
+  },
+  {
+   "at": "intervalos",
+   "x": 0,
+   "y": 290,
+   "w": 560,
+   "cls": "p",
+   "html": "Los intervalos <b>los pones tú</b>."
+  },
+  {
+   "at": "turno",
+   "lead": 0.5,
+   "x": 0,
+   "y": 340,
+   "html": "<span class=\"pill\">Tu turno · tu calendario de vuelta</span>"
+  }
+ ]
+}

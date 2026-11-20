@@ -1,0 +1,72 @@
+{
+ "chap": "CAPÍTULO 4 · VUELVE",
+ "items": [
+  {
+   "at": "Y",
+   "lead": 0.0,
+   "x": 0,
+   "y": 0,
+   "cls": "h",
+   "html": "El paciente <span class=\"a\">dormido</span>"
+  },
+  {
+   "at": "Y",
+   "after_prev": false,
+   "lead": 0.0,
+   "x": 0,
+   "y": 52,
+   "cls": "p",
+   "html": "<b>Lunes, 9:00</b>"
+  },
+  {
+   "at": "plan",
+   "x": 0,
+   "y": 100,
+   "cls": "chk",
+   "html": "<i></i>Sin plan"
+  },
+  {
+   "at": "año",
+   "x": 0,
+   "y": 136,
+   "cls": "chk",
+   "html": "<i></i>De hace un año"
+  },
+  {
+   "at": "vinieron",
+   "x": 0,
+   "y": 172,
+   "cls": "chk",
+   "html": "<i></i>Vinieron una vez"
+  },
+  {
+   "at": "esos",
+   "x": 0,
+   "y": 222,
+   "w": 300,
+   "html": "<div class=\"card\"><span class=\"tag warn\">✕ No</span><div class=\"quote\">Promoción sin permiso</div></div>"
+  },
+  {
+   "at": "Sí",
+   "x": 320,
+   "y": 222,
+   "w": 300,
+   "html": "<div class=\"card\"><span class=\"tag ok\">✓ Sí</span><div class=\"quote\">Preguntar cómo están, sin vender</div></div>"
+  },
+  {
+   "at": "partir",
+   "x": 0,
+   "y": 338,
+   "w": 600,
+   "cls": "p",
+   "html": "Y pide el permiso <b>en la primera visita</b>, cuando confían."
+  },
+  {
+   "at": "turno",
+   "lead": 0.5,
+   "x": 0,
+   "y": 388,
+   "html": "<span class=\"pill\">Tu turno · el lunes a las nueve</span>"
+  }
+ ]
+}

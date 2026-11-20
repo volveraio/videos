@@ -1,0 +1,50 @@
+{
+ "chap": "CAPÍTULO 3 · VUELVE",
+ "items": [
+  {
+   "at": "Hay",
+   "lead": 0.3,
+   "x": 0,
+   "y": 0,
+   "w": 640,
+   "cls": "h",
+   "html": "Dos mensajes que <span class=\"a\">parecen iguales</span>"
+  },
+  {
+   "at": "toca",
+   "x": 0,
+   "y": 110,
+   "w": 300,
+   "html": "<div class=\"card\"><span class=\"tag ok\">✓ Asistencia</span><div class=\"quote\">«Te toca la revisión que acordamos»</div></div>"
+  },
+  {
+   "at": "Hace",
+   "x": 320,
+   "y": 110,
+   "w": 300,
+   "html": "<div class=\"card\"><span class=\"tag warn\">▲ Publicidad · necesita permiso</span><div class=\"quote\">«Hace tiempo que no te vemos, te hacemos precio»</div></div>"
+  },
+  {
+   "at": "primero",
+   "x": 0,
+   "y": 280,
+   "cls": "chk",
+   "html": "<i></i>El primero lo puedes mandar."
+  },
+  {
+   "at": "segundo",
+   "x": 0,
+   "y": 318,
+   "w": 620,
+   "cls": "chk",
+   "html": "<i></i>El segundo, solo a quien te lo haya autorizado."
+  },
+  {
+   "at": "turno",
+   "lead": 0.5,
+   "x": 0,
+   "y": 380,
+   "html": "<span class=\"pill\">Tu turno · escribe el tuyo</span>"
+  }
+ ]
+}

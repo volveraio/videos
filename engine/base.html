@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<style>
+@font-face { font-family: "Urbanist"; src: url("../assets/fonts/Urbanist-SemiBold.ttf"); font-weight: 600; }
+@font-face { font-family: "Onest"; src: url("../assets/fonts/Onest-Regular.ttf"); font-weight: 400; }
+@font-face { font-family: "Onest"; src: url("../assets/fonts/Onest-Medium.ttf"); font-weight: 500; }
+:root { --navy:#0B1B3F; --aqua:#8FE6E6; --blue:#1A5CFF; --ink:#0E1B3D; --gray:#9AA6BF; }
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { width: 1280px; height: 720px; overflow: hidden; background: var(--navy); }
+body { font-family: "Onest", sans-serif; color: #fff; position: relative; }
+#bg { position: absolute; inset: 0; background:
+  radial-gradient(520px 520px at 980px 400px, rgba(40,90,200,.45), rgba(11,27,63,0) 70%),
+  radial-gradient(900px 700px at 300px 120px, #12275a, #0B1B3F 70%); }
+.star { position: absolute; width: 3px; height: 3px; border-radius: 50%; background: #cfe3ff; }
+#brand { position: absolute; left: 24px; top: 14px; font-family: "Urbanist"; font-weight: 600; font-size: 17px; }
+#brand b { color: var(--aqua); font-weight: 600; }
+#chap { position: absolute; left: 24px; top: 38px; font-size: 9.5px; letter-spacing: .14em; color: var(--gray); font-weight: 500; }
+#stage { position: absolute; left: 34px; top: 74px; width: 640px; height: 470px; transform: scale(1.2); transform-origin: 0 0; }
+.el { position: absolute; opacity: 0; will-change: transform, opacity; }
+.h { font-family: "Urbanist"; font-weight: 600; font-size: 40px; line-height: 1.12; letter-spacing: -.01em; }
+.h .a { color: var(--aqua); }
+.p { font-size: 17px; line-height: 1.45; color: #dfe7f7; }
+.p b { color: #fff; font-weight: 500; }
+.chk { display: flex; align-items: center; gap: 12px; font-size: 18px; color: #fff; }
+.chk i { width: 16px; height: 16px; border-radius: 3px; background: var(--aqua); flex: none; display: inline-block; }
+.chk.no i { background: transparent; border: 2px solid #ff9c8a; }
+.card { background: #fff; color: var(--ink); border-radius: 12px; padding: 14px 18px; box-shadow: 0 8px 30px rgba(0,0,0,.35); }
+.card .tag { display: inline-flex; align-items: center; gap: 6px; font-size: 11px; font-weight: 500; letter-spacing: .06em; text-transform: uppercase; padding: 3px 8px; border-radius: 4px; }
+.tag.ok { background: #DDF6EF; color: #0D5C4A; }
+.tag.warn { background: #FFF0D6; color: #7A4A00; }
+.tag.ej { background: #CDEFF0; color: #0E4A4D; }
+.quote { font-size: 17px; line-height: 1.4; margin-top: 8px; }
+.box { border: 2px solid rgba(143,230,230,.9); border-radius: 12px; padding: 16px 18px; text-align: center; font-family: "Urbanist"; font-size: 18px; }
+.box small { display: block; font-family: "Onest"; font-size: 11px; color: var(--gray); margin-top: 4px; }
+.box.dim { border-color: rgba(154,166,191,.45); color: #9AA6BF; }
+.pill { display: inline-flex; align-items: center; gap: 8px; background: var(--aqua); color: var(--ink); font-family: "Urbanist"; font-weight: 600; font-size: 18px; padding: 10px 18px; border-radius: 999px; }
+table.t { border-collapse: collapse; font-size: 13px; width: 100%; }
+table.t th { text-align: left; font-weight: 500; color: #4a5878; font-size: 11px; padding: 6px 8px; border-bottom: 1px solid #e3e8f2; }
+table.t td { padding: 8px; border-bottom: 1px solid #eef1f7; }
+table.t td.you { color: #1A5CFF; font-weight: 500; }
+#vera { position: absolute; left: 812px; top: 150px; width: 400px; height: 400px; transform-origin: 50% 90%; }
+#vera img { width: 100%; height: 100%; object-fit: contain; filter: drop-shadow(0 18px 30px rgba(0,0,0,.45)); }
+#aura { position: absolute; left: 760px; top: 110px; width: 500px; height: 500px; border-radius: 50%;
+  background: radial-gradient(closest-side, rgba(110,170,255,.32), rgba(110,170,255,0)); }
+#bubble { position: absolute; left: 34px; bottom: 30px; max-width: 720px; background: #fff; color: var(--ink);
+  border-radius: 10px; padding: 10px 16px 12px; box-shadow: 0 6px 24px rgba(0,0,0,.35); opacity: 0; }
+#bubble .who { font-size: 9.5px; letter-spacing: .12em; color: var(--blue); font-weight: 500; }
+#bubble .txt { font-size: 21px; font-weight: 500; line-height: 1.35; margin-top: 2px; }
+#bubble .txt span.f { color: #A3ADC2; }
+</style>
+</head>
+<body>
+<div id="bg"></div>
+<div id="stars"></div>
+<div id="brand">volvera · <b>Academia</b></div>
+<div id="chap"></div>
+<div id="stage"></div>
+<div id="aura"></div>
+<div id="vera"><img src="../assets/vera.webp" alt=""></div>
+<div id="bubble"><div class="who">VERA</div><div class="txt"></div></div>
+<script>
+// DATA is injected by build.py: { chap, duration, words:[{w,s,e}], phrases:[{s,e,i0,i1}], items:[{t,out?,x,y,w?,html,cls?,anim?}], env:[...amplitudes at 25 fps] }
+const D = window.DATA;
+document.getElementById('chap').textContent = D.chap;
+// stars (deterministic)
+(function(){ let s = 7; const r = () => (s = (s * 9301 + 49297) % 233280) / 233280;
+  const box = document.getElementById('stars');
+  for (let i = 0; i < 26; i++) { const d = document.createElement('div'); d.className = 'star';
+    d.style.left = (700 + r() * 560) + 'px'; d.style.top = (60 + r() * 620) + 'px';
+    d.dataset.ph = r() * 6.28; d.style.opacity = .5; box.appendChild(d); } })();
+const stage = document.getElementById('stage');
+const els = D.items.map(it => { const d = document.createElement('div');
+  d.className = 'el ' + (it.cls || ''); d.innerHTML = it.html;
+  d.style.left = it.x + 'px'; d.style.top = it.y + 'px'; if (it.w) d.style.width = it.w + 'px';
+  stage.appendChild(d); return d; });
+const ease = x => x <= 0 ? 0 : x >= 1 ? 1 : 1 - Math.pow(1 - x, 3);
+const bubble = document.getElementById('bubble'), btxt = bubble.querySelector('.txt');
+const vera = document.getElementById('vera'), aura = document.getElementById('aura');
+let lastPhrase = -1;
+window.render = function (t) {
+  // items: fade + rise in, optional fade out
+  D.items.forEach((it, i) => {
+    const k = ease((t - it.t) / 0.4);
+    const ko = it.out != null ? ease((t - it.out) / 0.3) : 0;
+    const o = k * (1 - ko);
+    els[i].style.opacity = o;
+    els[i].style.transform = `translateY(${(1 - k) * 14}px)`;
+  });
+  // stars twinkle
+  document.querySelectorAll('.star').forEach(s => s.style.opacity = .25 + .35 * (0.5 + 0.5 * Math.sin(t * 1.3 + +s.dataset.ph)));
+  // Vera: idle float + tilt, bounce with voice amplitude, entrance
+  const f = Math.min(D.env.length - 1, Math.max(0, Math.round(t * 25)));
+  const amp = D.env[f] || 0;
+  const enter = ease(t / 0.6);
+  const y = Math.sin(t * 1.6) * 6 - amp * 10 + (1 - enter) * 40;
+  const rot = Math.sin(t * 0.9) * 3 + amp * 2.5 * Math.sin(t * 7);
+  const sc = 0.96 + amp * 0.05;
+  vera.style.opacity = enter;
+  vera.style.transform = `translateY(${y}px) rotate(${rot}deg) scale(${sc})`;
+  aura.style.opacity = 0.55 + amp * 0.6;
+  aura.style.transform = `scale(${0.95 + amp * 0.12})`;
+  // subtitle bubble: current phrase, spoken words dark, upcoming grey
+  let p = D.phrases.findIndex(ph => t >= ph.s - 0.15 && t <= ph.e + 0.35);
+  if (p < 0) { bubble.style.opacity = 0; return; }
+  bubble.style.opacity = 1;
+  const ph = D.phrases[p];
+  let html = '';
+  for (let i = ph.i0; i <= ph.i1; i++) { const w = D.words[i];
+    html += (t >= w.s ? w.w : `<span class="f">${w.w}</span>`) + (i < ph.i1 ? ' ' : ''); }
+  btxt.innerHTML = html;
+};
+window.render(0);
+</script>
+</body>
+</html>

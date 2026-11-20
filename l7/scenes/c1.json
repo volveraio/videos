@@ -1,0 +1,59 @@
+{
+ "chap": "CAPÍTULO 1 · VUELVE",
+ "items": [
+  {
+   "at": "Quinto",
+   "x": 0,
+   "y": 0,
+   "cls": "h",
+   "html": "Quinto momento:",
+   "out_at": "Antes"
+  },
+  {
+   "at": "vuelve",
+   "x": 0,
+   "y": 46,
+   "cls": "h",
+   "html": "<span class=\"a\">vuelve.</span>",
+   "out_at": "Antes"
+  },
+  {
+   "at": "nadie",
+   "x": 0,
+   "y": 130,
+   "w": 560,
+   "cls": "p",
+   "html": "Puede que <b>nadie le dijera cuándo tocaba</b>.",
+   "out_at": "Antes"
+  },
+  {
+   "at": "Antes",
+   "x": 0,
+   "y": 0,
+   "w": 640,
+   "cls": "h",
+   "html": "Antes de arreglarlo, <span class=\"a\">cuéntalo.</span>"
+  },
+  {
+   "at": "últimos",
+   "x": 0,
+   "y": 110,
+   "cls": "chk",
+   "html": "<i></i>Tratados hace unos meses"
+  },
+  {
+   "at": "cuántos",
+   "x": 0,
+   "y": 150,
+   "cls": "chk",
+   "html": "<i></i>¿Cuántos han vuelto o tienen cita?"
+  },
+  {
+   "at": "turno",
+   "lead": 0.5,
+   "x": 0,
+   "y": 220,
+   "html": "<span class=\"pill\">Tu turno · abre tu agenda</span>"
+  }
+ ]
+}

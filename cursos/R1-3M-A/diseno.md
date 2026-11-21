@@ -1,5 +1,5 @@
 # R1-3M-A · Diseño v2 · Tu ficha de Google y tus reseñas
-🎓 Fábrica B · 21 nov 2026, 01:35 (hora de España) · Dueño: B · 🔁 rehecho con el estándar de profundidad v1 y el comentario de Jorge (00:22, «profundizar un poco más»)
+🎓 Fábrica B · 21 nov 2026, 01:35 (hora de España) · **v2.1 a las 15:30: «Hazlo en Volvera» con el código `main` 6a2a328 (la voz no cambia)** · Dueño: B · 🔁 rehecho con el estándar de profundidad v1 y el comentario de Jorge (00:22, «profundizar un poco más»)
 **Tipo: curso de habilidad · abierto, sin cuenta · sirve sin Volvera.** 7 capítulos en vídeo de Vera (≈ 13 min) + texto, 3 talleres con su propia ficha, hoja «Mi ficha en 10 puntos», hoja «Mis respuestas a reseñas», ensayo en pareja y test de 9 casos. ≈ 45 min + 7 días.
 Sustituye a la v1 (6 pasos), que está en el proyecto (`claude/academia/cursos/R1-3M-A/diseno.md`). Investigación: la v1 del proyecto + `investigacion-v2.md` (esta rama).
 
@@ -55,8 +55,14 @@ Sustituye a la v1 (6 pasos), que está en el proyecto (`claude/academia/cursos/R
 ## Tu semana
 Lunes: talleres 1–2 · miércoles: 3 · viernes: ensayo · día 7: recuento. Después, 10 min cada lunes; el primer lunes del mes, estadísticas.
 
-## Hazlo en Volvera ⏳ función
-«Tu Google» no está en producción; la página no nombra la app hasta que 🧩 lo confirme.
+## Hazlo en Volvera (v2.1 · código `main` 6a2a328; solo la página, la voz no nombra la app)
+«Tu Google» ya está en la barra lateral («Conseguir pacientes» → Tu Google). Para quien tiene cuenta:
+1. **Tus 10 puntos:** Tu Google › pestaña «Tu ficha» («Tu ficha de Google · n de 11 hechos», «Sin conexión con Google»: Volvera no lee tu Google; tú comparas). Lo que Volvera sabe se mira ahí y se escribe igual en Google con «Ir a Google». La herramienta paso a paso es el curso R1-6M-C (A). Ojo: allí son 11 puntos y aquí 10 (A16).
+2. **Tu enlace de reseñas:** Ajustes → Clínica («Aún no tienes guardado tu enlace de reseñas de Google. Sin él, el «gracias» no lleva enlace.»).
+3. **Pedirla a todas por igual:** «Encuesta y reseñas» (desde Tu Google › Resumen → «Ir a Encuesta y reseñas»): «Enlace de la reseña de Google» → **«Enlace a todos · recomendado»**. Nunca «Solo a los contentos» (la propia app avisa: «Pedir la reseña solo a los contentos va contra las normas de Google»). Hoy la pantalla «solo enseña cómo está»: no se puede cambiar.
+4. **La tarjeta:** «Tarjeta con QR para recepción» → «Descargar para imprimir» («Sin descuento y sin pedir la reseña de palabra»). Va con C3 y **C71**.
+5. **Contestar reseñas:** la pestaña «Reseñas» (pegar la reseña, «Que Vera proponga respuesta», «Así no se puede enviar» si una frase confirma que es paciente o da un dato de salud) existe en el código, pero **aún no se enseña** → ⏳ función. Sus 3 reglas son las mismas del capítulo 4.
+6. **No se enseña:** «5 % por contestar» de la encuesta (va con **C72**).
 
 ## Aviso dentro de la app
 El de la v1, ya en `para-producto.md` (primera semana de una clínica nueva, una vez).

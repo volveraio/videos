@@ -6,7 +6,7 @@
   "g1": {
    "historyItemId": "IFq71Sahf9SX3q9QzMC9",
    "duracion_s": 18.72,
-   "audio": "cursos/R5-1M-I-G/audio/g1.mp3 (⏳ bajar por el Mac)",
+   "audio": "cursos/R5-1M-I-G/audio/g1.mp3",
    "words": [
     {
      "text": "En",
@@ -293,7 +293,7 @@
   "g2": {
    "historyItemId": "me7GXJ3VdFDfvcJkAMLK",
    "duracion_s": 18.64,
-   "audio": "cursos/R5-1M-I-G/audio/g2.mp3 (⏳ bajar por el Mac)",
+   "audio": "cursos/R5-1M-I-G/audio/g2.mp3",
    "words": [
     {
      "text": "Abre",
@@ -560,7 +560,7 @@
   "g3": {
    "historyItemId": "IV2zYrWJ6CDBzN1UiAUB",
    "duracion_s": 17.68,
-   "audio": "cursos/R5-1M-I-G/audio/g3.mp3 (⏳ bajar por el Mac)",
+   "audio": "cursos/R5-1M-I-G/audio/g3.mp3",
    "words": [
     {
      "text": "Para",
@@ -817,7 +817,7 @@
   "cierre": {
    "historyItemId": "Rf5QrFwrvlvE6K7VXNCG",
    "duracion_s": 13.76,
-   "audio": "cursos/R5-1M-I-G/audio/cierre.mp3 (⏳ bajar por el Mac)",
+   "audio": "cursos/R5-1M-I-G/audio/cierre.mp3",
    "words": [
     {
      "text": "Ya",

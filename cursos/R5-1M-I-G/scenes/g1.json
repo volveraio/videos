@@ -1,0 +1,56 @@
+{
+ "chap": "A FONDO 1 · VUELVE",
+ "items": [
+  {
+   "at": "En",
+   "lead": 0.3,
+   "x": 0,
+   "y": 0,
+   "w": 640,
+   "cls": "h",
+   "html": "Tu calendario de vuelta, <span class=\"a\">completo</span>"
+  },
+  {
+   "at": "todos",
+   "x": 0,
+   "y": 110,
+   "cls": "p",
+   "html": "Todos tus tratamientos, <b>hasta 10</b>."
+  },
+  {
+   "at": "revisión",
+   "x": 0,
+   "y": 160,
+   "cls": "chk",
+   "html": "<i></i>La revisión"
+  },
+  {
+   "at": "repetición",
+   "x": 0,
+   "y": 196,
+   "cls": "chk",
+   "html": "<i></i>La repetición"
+  },
+  {
+   "at": "mensaje",
+   "x": 0,
+   "y": 232,
+   "cls": "chk",
+   "html": "<i></i>Tu mensaje de «te toca»"
+  },
+  {
+   "at": "intervalo",
+   "x": 0,
+   "y": 284,
+   "w": 440,
+   "html": "<div class=\"card\"><span class=\"tag ej\">Ejemplo</span><div class=\"quote\">Los intervalos los pone el médico responsable.</div></div>"
+  },
+  {
+   "at": "descargas",
+   "lead": 0.4,
+   "x": 0,
+   "y": 400,
+   "html": "<span class=\"pill\">Tu turno · descárgalo para tu equipo</span>"
+  }
+ ]
+}

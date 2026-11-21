@@ -1,0 +1,56 @@
+{
+ "chap": "A FONDO 2 · VUELVE",
+ "items": [
+  {
+   "at": "Abre",
+   "lead": 0.3,
+   "x": 0,
+   "y": 0,
+   "w": 640,
+   "cls": "h",
+   "html": "Tus 20 tratados de <span class=\"a\">hace seis meses</span>"
+  },
+  {
+   "at": "Sin",
+   "x": 0,
+   "y": 110,
+   "cls": "p",
+   "html": "<b>Sin nombres:</b> Paciente 1, Paciente 2…"
+  },
+  {
+   "at": "tenía",
+   "x": 0,
+   "y": 160,
+   "cls": "chk",
+   "html": "<i></i>¿Tenía revisión o repetición en su plan?"
+  },
+  {
+   "at": "vuelto",
+   "x": 0,
+   "y": 196,
+   "cls": "chk",
+   "html": "<i></i>¿Ha vuelto?"
+  },
+  {
+   "at": "cita",
+   "x": 0,
+   "y": 232,
+   "cls": "chk",
+   "html": "<i></i>¿Tiene cita?"
+  },
+  {
+   "at": "Ese",
+   "x": 0,
+   "y": 290,
+   "w": 400,
+   "html": "<div class=\"box\">Cuántos deberían haber vuelto<small>Tu punto de partida</small></div>"
+  },
+  {
+   "at": "partida",
+   "lead": 0.5,
+   "x": 0,
+   "y": 400,
+   "html": "<span class=\"pill\">Tu turno · tus 20, sin nombres</span>"
+  }
+ ]
+}

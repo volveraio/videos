@@ -1,0 +1,36 @@
+{
+ "chap": "CIERRE · VUELVE",
+ "items": [
+  {
+   "at": "Ya",
+   "lead": 0.3,
+   "x": 0,
+   "y": 0,
+   "w": 640,
+   "cls": "h",
+   "html": "Así lo haría <span class=\"a\">Volvera</span> en tu clínica"
+  },
+  {
+   "at": "Hoy",
+   "x": 0,
+   "y": 120,
+   "w": 300,
+   "html": "<div class=\"box dim\">Hoy<small>Te acuerdas tú de quién tiene que repetir</small></div>"
+  },
+  {
+   "at": "Con",
+   "x": 320,
+   "y": 120,
+   "w": 300,
+   "html": "<div class=\"box\">Con Volvera<small>Se lo recuerda por WhatsApp cuando le toca</small></div>"
+  },
+  {
+   "at": "lunes",
+   "lead": 0.3,
+   "x": 0,
+   "y": 240,
+   "w": 620,
+   "html": "<div class=\"box\">Cada lunes<small>Volvera te enseña tu camino con tus números</small></div>"
+  }
+ ]
+}

@@ -56,8 +56,13 @@ Capa 7 (la herramienta): no aplica, es un curso abierto. Solo «Hazlo en Volvera
 8. ¿Por qué rango y no cifra exacta? → ✅ el precio final depende de la valoración del médico · ❌ para no comprometerse · ❌ para que venga sí o sí.
 9. Tu número: 10 preguntas, 3 con hora → ✅ mirar primero el tiempo de respuesta · ❌ bajar precios · ❌ hacer una oferta.
 
-## Hazlo en Volvera ⏳ función
-«Vera contesta la pregunta de precio a cualquier hora, con tu pregunta y tus rangos» (R2-6M-C). En el abierto, solo como enlace a «Prueba Volvera» con literales aprobados; si no hay literal, no sale. El ensayo con Vera es otro curso (R2-4T-C, ⏳ función).
+## Hazlo en Volvera · v2.1 (21 nov 16:40, repaso con `main` b2e099c: deja de esperar)
+Lo que enseña el curso ya se puede hacer en tres pantallas que existen. Solo nombres de pantalla y pasos, sin decir qué consigue Volvera (eso, solo con literales aprobados; si no hay literal, no sale):
+1. **Ajustes → Tratamientos**: cada tratamiento con su «Precio final (con IVA)», y la consulta de valoración siempre con precio. Sin precio, sale «Precio en valoración»: di cómo se fija (curso R2-6M-C).
+2. **Mensajes → una conversación → ⚡ «Respuestas rápidas»**: trae el precio del catálogo de cada tratamiento («Para este paciente» arriba) y lo deja en tu mensaje sin enviarlo. Tú le añades lo del curso: tu pregunta, qué incluye y un día y una hora. 🏷️ Si sale con «Promoción», quítala: en la primera respuesta al precio no va ninguna oferta. 🔒 Con la ventana de 24 h cerrada no funciona.
+3. **Ajustes → Respuesta inmediata → «Pregunta por el precio»** (viene apagada): para los ratos en que nadie mira el móvil, pregunta qué tratamiento le interesa, sin cifras, y os avisa: «Pregunta por precio: contesta tú».
+La frase de la v2 («…con tu pregunta y tus rangos») se quita: el catálogo guarda una cifra, no un rango (C25). El ensayo con Vera es otro curso (R2-4T-C, ⏳ función).
+Fuente: código `quick-replies.tsx` y `inbox-quick-replies.ts` («Precios del catálogo de Volvera (Ajustes → Tratamientos). Las mismas reglas que usa Vera.»), `ajustes.servicios.tsx`, `ajustes.respuesta-inmediata.tsx`. Captura en Lumina: pedida a A (`fabrica/para-el-mac-3.md`). La voz no cambia.
 
 ## Aviso dentro de la app (encargo para 🧩 Producto, ya en `para-producto.md`)
 ≥ 3 conversaciones con «precio» o «cuánto» sin contestar en más de 1 h en la semana → aviso al médico y a recepción: «Esta semana, 3 preguntas de precio esperaron más de una hora. Hay un curso: “La primera hora: qué contestar al precio”.»

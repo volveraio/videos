@@ -1,0 +1,90 @@
+{
+ "chap": "CAPÍTULO 4 · BANDEJA DE WHATSAPP",
+ "items": [
+  {
+   "at": "Antes",
+   "x": 0,
+   "y": 0,
+   "w": 640,
+   "cls": "h",
+   "html": "Antes de cerrar, <span class=\"a\">Me toca vacía</span>",
+   "out_at": "viernes",
+   "lead": 0.3
+  },
+  {
+   "at": "Me",
+   "x": 0,
+   "y": 70,
+   "w": 220,
+   "html": "<div class=\"card\" style=\"padding:10px 12px\"><span class=\"tag ej\">demostración</span><img src=\"../r2-5e-c/capturas/recortes/me-toca-vacia.jpg\" style=\"display:block;width:100%;margin-top:8px;border-radius:6px\"></div>",
+   "out_at": "viernes"
+  },
+  {
+   "at": "pospuesto",
+   "x": 250,
+   "y": 90,
+   "w": 370,
+   "html": "<div class=\"card\"><span class=\"tag ok\">✓ Pospuesto a mañana, con hora</span><div class=\"quote\">No olvidado.</div></div>",
+   "out_at": "viernes"
+  },
+  {
+   "at": "viernes",
+   "x": 0,
+   "y": 0,
+   "w": 640,
+   "cls": "h",
+   "html": "Cada viernes, <span class=\"a\">3 números</span>",
+   "out_at": "Empieza"
+  },
+  {
+   "at": "esperaron",
+   "x": 0,
+   "y": 80,
+   "w": 500,
+   "html": "<i></i>Esperaron más de 15 minutos",
+   "out_at": "Empieza",
+   "cls": "chk"
+  },
+  {
+   "at": "pospuestas",
+   "x": 0,
+   "y": 115,
+   "w": 500,
+   "html": "<i></i>Pospuestas pasadas de su hora",
+   "out_at": "Empieza",
+   "cls": "chk"
+  },
+  {
+   "at": "fueron",
+   "x": 0,
+   "y": 150,
+   "w": 500,
+   "html": "<i></i>Fueron al médico",
+   "out_at": "Empieza",
+   "cls": "chk"
+  },
+  {
+   "at": "muchas",
+   "x": 0,
+   "y": 200,
+   "w": 440,
+   "html": "<div class=\"card\"><span class=\"tag warn\">▲ ¿Muchas esperan?</span><div class=\"quote\">Más rondas o una persona fija en la bandeja.</div></div>",
+   "out_at": "Empieza"
+  },
+  {
+   "at": "Empieza",
+   "x": 0,
+   "y": 0,
+   "w": 640,
+   "cls": "h",
+   "html": "Tu hoja: <span class=\"a\">Mi ronda</span>"
+  },
+  {
+   "at": "hoja",
+   "lead": 0.4,
+   "x": 0,
+   "y": 90,
+   "html": "<span class=\"pill\">Tu turno · empieza hoy</span>"
+  }
+ ]
+}

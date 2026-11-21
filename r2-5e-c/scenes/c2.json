@@ -1,0 +1,92 @@
+{
+ "chap": "CAPÍTULO 2 · BANDEJA DE WHATSAPP",
+ "items": [
+  {
+   "at": "Con",
+   "x": 0,
+   "y": 0,
+   "w": 640,
+   "cls": "h",
+   "html": "Una de <span class=\"a\">cuatro</span>",
+   "lead": 0.3
+  },
+  {
+   "at": "conversación",
+   "x": 0,
+   "y": 58,
+   "w": 600,
+   "html": "<div class=\"card\" style=\"padding:10px 12px\"><span class=\"tag ej\">Barra de la conversación · demostración</span><img src=\"../r2-5e-c/capturas/recortes/barra.jpg\" style=\"display:block;width:100%;margin-top:8px;border-radius:6px\"></div>"
+  },
+  {
+   "at": "Contestas",
+   "x": 0,
+   "y": 190,
+   "w": 310,
+   "html": "<i></i>1 · Contestas",
+   "cls": "chk"
+  },
+  {
+   "at": "pasas",
+   "x": 0,
+   "y": 225,
+   "w": 310,
+   "html": "<i></i>2 · Se la pasas",
+   "cls": "chk"
+  },
+  {
+   "at": "pulsa",
+   "x": 330,
+   "y": 185,
+   "w": 300,
+   "html": "<div class=\"card\"><span class=\"tag ok\">✓ Sin asignar ▾</span><div class=\"quote\">Elige a la persona. Lo clínico, al médico.</div></div>",
+   "out_at": "pospones"
+  },
+  {
+   "at": "pospones",
+   "x": 0,
+   "y": 260,
+   "w": 310,
+   "html": "<i></i>3 · La pospones",
+   "cls": "chk"
+  },
+  {
+   "at": "una",
+   "x": 330,
+   "y": 185,
+   "w": 130,
+   "html": "<div class=\"card\" style=\"padding:10px 12px\"><span class=\"tag ej\">Posponer ▾</span><img src=\"../r2-5e-c/capturas/recortes/posponer.jpg\" style=\"display:block;width:100%;margin-top:8px;border-radius:6px\"></div>",
+   "out_at": "marcas"
+  },
+  {
+   "at": "Pero",
+   "x": 475,
+   "y": 185,
+   "w": 160,
+   "html": "<div class=\"card\"><span class=\"tag warn\">▲ Antes</span><div class=\"quote\">Dile cuándo le contestáis.</div></div>",
+   "out_at": "marcas"
+  },
+  {
+   "at": "marcas",
+   "x": 0,
+   "y": 295,
+   "w": 310,
+   "html": "<i></i>4 · La marcas como hecha",
+   "cls": "chk"
+  },
+  {
+   "at": "vuelve",
+   "x": 330,
+   "y": 185,
+   "w": 300,
+   "html": "<div class=\"card\"><span class=\"tag ok\">✓ Hecha</span><div class=\"quote\">Si vuelve a escribir, se abre otra vez.</div></div>",
+   "out_at": "Hecha"
+  },
+  {
+   "at": "Hecha",
+   "x": 330,
+   "y": 185,
+   "w": 300,
+   "html": "<div class=\"card\"><span class=\"tag warn\">✕ Hecha no es</span><div class=\"quote\">para lo que no quieres contestar.</div></div>"
+  }
+ ]
+}

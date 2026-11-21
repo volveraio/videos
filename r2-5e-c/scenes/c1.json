@@ -1,0 +1,108 @@
+{
+ "chap": "CAPÍTULO 1 · BANDEJA DE WHATSAPP",
+ "items": [
+  {
+   "at": "Tu",
+   "x": 0,
+   "y": 0,
+   "w": 640,
+   "cls": "h",
+   "html": "Que nadie espere <span class=\"a\">más de 15 minutos</span>",
+   "out_at": "Empieza",
+   "lead": 0.3
+  },
+  {
+   "at": "plazo",
+   "x": 0,
+   "y": 110,
+   "w": 560,
+   "html": "<b>15 minutos</b> es el plazo que tiene puesto tu clínica.",
+   "out_at": "Empieza",
+   "cls": "p"
+  },
+  {
+   "at": "abrir",
+   "x": 0,
+   "y": 170,
+   "w": 320,
+   "html": "<i></i>Al abrir",
+   "out_at": "Empieza",
+   "cls": "chk"
+  },
+  {
+   "at": "después",
+   "x": 0,
+   "y": 205,
+   "w": 320,
+   "html": "<i></i>Cada hora · 5 minutos",
+   "out_at": "Empieza",
+   "cls": "chk"
+  },
+  {
+   "at": "Empieza",
+   "x": 0,
+   "y": 0,
+   "w": 640,
+   "cls": "h",
+   "html": "Empieza por <span class=\"a\">Me toca</span>",
+   "out_at": "Dentro"
+  },
+  {
+   "at": "Me",
+   "x": 0,
+   "y": 70,
+   "w": 290,
+   "html": "<div class=\"card\" style=\"padding:10px 12px\"><span class=\"tag ej\">Mensajes · demostración</span><img src=\"../r2-5e-c/capturas/recortes/me-toca.jpg\" style=\"display:block;width:100%;margin-top:8px;border-radius:6px\"></div>",
+   "out_at": "Dentro"
+  },
+  {
+   "at": "escribió",
+   "x": 330,
+   "y": 80,
+   "w": 300,
+   "html": "<i></i>Quien escribió y espera",
+   "out_at": "Dentro",
+   "cls": "chk"
+  },
+  {
+   "at": "pospusiste",
+   "x": 330,
+   "y": 115,
+   "w": 300,
+   "html": "<i></i>Lo pospuesto para hoy",
+   "out_at": "Dentro",
+   "cls": "chk"
+  },
+  {
+   "at": "Vera",
+   "x": 330,
+   "y": 150,
+   "w": 300,
+   "html": "<i></i>Lo que Vera pasó al equipo",
+   "out_at": "Dentro",
+   "cls": "chk"
+  },
+  {
+   "at": "Dentro",
+   "x": 0,
+   "y": 0,
+   "w": 640,
+   "cls": "h",
+   "html": "Primero, <span class=\"a\">quien quiere cita</span>"
+  },
+  {
+   "at": "Más",
+   "x": 0,
+   "y": 70,
+   "w": 280,
+   "html": "<div class=\"card\" style=\"padding:10px 12px\"><span class=\"tag ej\">Más ▾ · demostración</span><img src=\"../r2-5e-c/capturas/recortes/mas-quieren-cita.jpg\" style=\"display:block;width:100%;margin-top:8px;border-radius:6px\"></div>"
+  },
+  {
+   "at": "hueco",
+   "x": 320,
+   "y": 80,
+   "w": 310,
+   "html": "<div class=\"card\"><span class=\"tag warn\">▲ Hueco retenido</span><div class=\"quote\">Mira a qué hora caduca y contesta antes.</div></div>"
+  }
+ ]
+}

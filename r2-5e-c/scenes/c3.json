@@ -1,0 +1,125 @@
+{
+ "chap": "CAPÍTULO 3 · BANDEJA DE WHATSAPP",
+ "items": [
+  {
+   "at": "Si",
+   "x": 0,
+   "y": 0,
+   "w": 640,
+   "cls": "h",
+   "html": "Cada una, <span class=\"a\">Mías</span>",
+   "out_at": "Cuando",
+   "lead": 0.3
+  },
+  {
+   "at": "Mías",
+   "x": 0,
+   "y": 90,
+   "w": 440,
+   "html": "<i></i>Cada una mira Mías",
+   "out_at": "Cuando",
+   "cls": "chk"
+  },
+  {
+   "at": "primera",
+   "x": 0,
+   "y": 125,
+   "w": 440,
+   "html": "<i></i>1.ª ronda: también Sin asignar",
+   "out_at": "Cuando",
+   "cls": "chk"
+  },
+  {
+   "at": "dueño",
+   "x": 0,
+   "y": 175,
+   "w": 440,
+   "html": "<b>Nada se queda sin dueño.</b>",
+   "out_at": "Cuando",
+   "cls": "p"
+  },
+  {
+   "at": "Cuando",
+   "x": 0,
+   "y": 0,
+   "w": 640,
+   "cls": "h",
+   "html": "Vera pasó al equipo: <span class=\"a\">lee el motivo</span>",
+   "out_at": "Fíjate"
+  },
+  {
+   "at": "clínica",
+   "x": 0,
+   "y": 110,
+   "w": 380,
+   "html": "<div class=\"card\"><span class=\"tag ok\">✓ Duda clínica</span><div class=\"quote\">Al médico.</div></div>",
+   "out_at": "Fíjate"
+  },
+  {
+   "at": "Fíjate",
+   "x": 0,
+   "y": 0,
+   "w": 640,
+   "cls": "h",
+   "html": "Fíjate en <span class=\"a\">la ventana</span>",
+   "out_at": "queja"
+  },
+  {
+   "at": "WhatsApp",
+   "x": 0,
+   "y": 70,
+   "w": 400,
+   "html": "<div class=\"card\"><span class=\"tag ej\">WhatsApp</span><div class=\"quote\">24 horas libres desde su último mensaje.</div></div>",
+   "out_at": "queja"
+  },
+  {
+   "at": "cerrada",
+   "x": 0,
+   "y": 175,
+   "w": 170,
+   "html": "<div class=\"card\" style=\"padding:10px 12px\"><span class=\"tag ej\">Cabecera</span><img src=\"../r2-5e-c/capturas/recortes/ventana-cerrada.jpg\" style=\"display:block;width:100%;margin-top:8px;border-radius:6px\"></div>",
+   "out_at": "queja"
+  },
+  {
+   "at": "aprobado",
+   "x": 0,
+   "y": 270,
+   "w": 500,
+   "html": "<div class=\"card\" style=\"padding:10px 12px\"><span class=\"tag ej\">Ventana cerrada · demostración</span><img src=\"../r2-5e-c/capturas/recortes/elegir-aprobado.jpg\" style=\"display:block;width:100%;margin-top:8px;border-radius:6px\"></div>",
+   "out_at": "queja"
+  },
+  {
+   "at": "aceptó",
+   "x": 0,
+   "y": 370,
+   "w": 560,
+   "html": "<i></i>Solo a quien aceptó mensajes de la clínica",
+   "out_at": "queja",
+   "cls": "chk"
+  },
+  {
+   "at": "urgente",
+   "x": 0,
+   "y": 405,
+   "w": 560,
+   "html": "<i></i>¿Urgente? Llama.",
+   "out_at": "queja",
+   "cls": "chk"
+  },
+  {
+   "at": "queja",
+   "x": 0,
+   "y": 0,
+   "w": 640,
+   "cls": "h",
+   "html": "Una queja <span class=\"a\">no se discute por escrito</span>"
+  },
+  {
+   "at": "llamáis",
+   "x": 0,
+   "y": 110,
+   "w": 440,
+   "html": "<div class=\"card\"><span class=\"tag warn\">▲ Queja</span><div class=\"quote\">«Te llamamos hoy» y se la pasas a quien lleve la clínica.</div></div>"
+  }
+ ]
+}

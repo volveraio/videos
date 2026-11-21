@@ -1,10 +1,11 @@
 # R4-1M-I · L6 · Tratamiento y los días siguientes · Guion (paso 3) + corrector (paso 4)
+> v2 · 21 nov 01:15 · rehecho con el **estándar de profundidad** (8 capas, mínimos, prueba de profundidad). «Lo esencial» = capítulos 0–5 (≈ 10 min de vídeo, para hacerlo hoy); el resto va en «A fondo» (abajo). Tiempo del alumno: ≈ 40 min + práctica.
 🏭 Fábrica A · 21 nov 2026, 01:05 (Madrid). Sale de `diseno.md` (00:05): conducta → tarea → contenido. Formato de L5 y L7: un vídeo de Vera por capítulo, textos de pantalla entre corchetes, tarea al final de cada capítulo. ≈ 10 min de voz en total. Lo clínico, siempre «lo pone el médico responsable».
 
 ## Capítulo 0 · ¿Qué hiciste con tu último tratado? (≈ 60 s)
 Piensa en la última persona que trataste. No en la técnica: en lo que pasó cuando se levantó de la camilla. ¿Se fue con algo por escrito? ¿Sabía a quién llamar si esa noche notaba algo raro? ¿Salió con la revisión en la agenda, o con un «ya me llamas»?
-Esta lección va de esos días. Son los que deciden si esa persona vuelve tranquila, o si vuelve con miedo, o si no vuelve. Antes de empezar, haz una cuenta rápida: tus diez últimos tratados, sin nombres. Para cada uno, tres casillas: se llevó la hoja escrita, tiene la revisión fijada, le escribiste a los dos o tres días. Al final de la lección la repetimos.
-[Tarea 0 · Hoja «Mis 10 últimos tratados» · Paciente 1…10 · sin nombres · ✅ / ❌ en 3 columnas]
+Esta lección va de esos días. Son los que deciden si esa persona vuelve tranquila, o si vuelve con miedo, o si no vuelve. Antes de empezar, haz una cuenta rápida: tus diez últimos tratados, sin nombres. Para cada uno, tres casillas: se llevó la hoja escrita, tiene la revisión fijada, le escribiste a los dos o tres días. Al final de la lección la repetimos. Y pon al lado una cifra tuya: lo que suele valer en tu clínica una revisión que acaba en repetición. Los que no tienen revisión fijada, por esa cifra, es lo que se juega esta lección. Es tu cuenta, no la nuestra.
+[Tarea 0 · Hoja «Mis 10 últimos tratados» · Paciente 1…10 · sin nombres · ✅ / ❌ en 3 columnas · «Sin revisión fijada: N × tu cifra = lo que te juegas» (la cifra la pone el alumno; no se guarda fuera de su cuenta)]
 
 ## Capítulo 1 · Los primeros días (≈ 90 s)
 Después de un tratamiento hay cosas que son normales y cosas que no. Lo normal, por ejemplo, un poco de hinchazón o un pequeño morado, lo pones tú en tu hoja. Lo que no es normal también: las señales de alarma. Cuáles son y cuánto tiempo hay que vigilarlas lo decide el médico responsable, para cada tratamiento.
@@ -52,6 +53,72 @@ Escribe 3 hojas de indicaciones · entrégalas al salir · un mensaje a los 2–
 Pega tu hoja en Ajustes → Tratamientos → Conocimiento: lo que Vera dice a tus pacientes sobre ese tratamiento sale de ahí.
 (Las filas «Vera envía tus indicaciones y recuerda la revisión» y «Si el paciente dice que algo no va bien, Vera te avisa a ti» **no salen**: sin literal aprobado.)
 
+## Palabras exactas · bien / mal (capa 3, en pantalla en los capítulos 2, 3 y 5)
+| | ✕ Mal | ✓ Bien | Por qué |
+|---|---|---|---|
+| Hoja, bloque «cuándo avisar» | «Si tienes cualquier duda, llámanos.» | «Si notas [la señal que pone tu médico], escríbenos o llama al [teléfono] aunque sea de noche y aunque no duela.» | La duda no es una señal: la señal concreta sí |
+| Mensaje de los 2–3 días | «¡Hola! ¿Todo genial? Este mes tenemos 20 % en labios 💋» | «Hola, Marta. ¿Qué tal la frente estos días? Si notas algo que no esperabas, escríbenos aunque no duela.» | El primero vende: es publicidad. El segundo pregunta: es asistencia |
+| Respuesta a «zona blanca, no duele» | «Tranquila, será un morado. Ponte frío y mañana me dices.» | «Gracias por avisar. Queremos verte hoy o mañana a primera hora. ¿Puedes venir?» | Por mensaje no se diagnostica |
+| Revisión | «Ya me llamas cuando puedas.» | «Te quiero ver el día 12 a las 17:00. ¿Te va bien? Te lo apunto en tu hoja.» | Sin fecha, la revisión se pierde |
+| Foto | «Mándame una foto que la subo a Instagram, que te ha quedado genial.» | «Si quieres, mándame una foto para ver cómo va; va a tu historia y no sale de ahí.» | La foto clínica no es publicidad (Código 2022, art. 79.2) |
+[Ejemplos inventados · sin marcas · sin promesas]
+
+---
+
+# A fondo (talleres; ≈ 30 min + práctica)
+
+## H1 · Casos difíciles de los días siguientes (capa 4 · 10 min)
+Vídeo corto de Vera + 5 casos con su respuesta. El alumno escribe la suya; el corrector avisa si vende o diagnostica.
+1. **«No me hace falta revisión, ya me veo bien».** Respuesta: «Me alegro. La revisión es para mirar lo que tú no ves en el espejo y apuntarlo en tu historia; son diez minutos. ¿Te va el martes o el jueves?». Si aun así no quiere: se apunta en la historia que se le ofreció.
+2. **No contesta al mensaje de los 2–3 días.** No se insiste con otro mensaje igual. Un segundo y último mensaje, solo si su tratamiento lo pide (lo decide el médico responsable), y la revisión ya fijada sigue en pie.
+3. **Día 2: «me ha quedado asimétrico».** No se discute por mensaje ni se promete un retoque: «Gracias por decírnoslo. Queremos verlo en persona; ¿puedes venir esta semana?». Lo que se ve, a la historia.
+4. **Escribe a las 22:30 con una señal de alarma** (el caso del capítulo 4) y además no puede venir hasta el lunes. Se le da el contacto de urgencias que haya previsto el médico responsable. Nunca «espera al lunes» por mensaje.
+5. **En la conversación de seguimiento pregunta por otro tratamiento.** Si lo pregunta ella, se contesta a lo que pregunta, sin oferta ni precio como reclamo, y se propone valorarlo en consulta. Lo que no se hace es sacarlo tú en el seguimiento.
+[Los protocolos clínicos los pone el médico responsable]
+
+## H2 · Errores que lo hunden (capa 5 · 5 min, lectura con su consecuencia)
+1. Indicaciones solo de palabra → se olvidan; la paciente llama asustada por algo normal o no avisa de algo que no lo es.
+2. Hoja genérica para todos los tratamientos → no dice la señal concreta de ese tratamiento; no sirve el día que hace falta.
+3. Sin contacto fuera de horario → el problema del jueves por la noche llega el lunes.
+4. Revisión «ya me llamas» → no vuelve; lo que pase después lo ve otra clínica.
+5. Mensaje de seguimiento con oferta → deja de ser asistencia: publicidad sin permiso (LSSI, art. 21) y la paciente nota que se le vende.
+6. Diagnosticar o tranquilizar por mensaje → riesgo clínico y nada en la historia.
+7. Pedir la foto «para redes» → la foto clínica no se publica sin consentimiento explícito (Código 2022, art. 79.2).
+
+## H3 · Criterio y límites (capa 6 · 5 min)
+| | Qué | Fuente |
+|---|---|---|
+| ✅ | Dar las indicaciones por escrito y apuntar en la historia lo explicado | Ley 41/2002, art. 4.1 · Código 2022, art. 10.4 |
+| ✅ | Mensaje de seguimiento sobre su propio tratamiento, sin oferta | Asistencia · LSSI, art. 21 (no es comunicación comercial) |
+| ⚠️ | Contestar una pregunta de la paciente sobre otro tratamiento | Solo lo que pregunta, sin oferta; se valora en consulta |
+| ⚠️ | Autonómico: en Andalucía, con toxina, ficha de seguimiento con fecha y dosis; con rellenos, etiqueta de trazabilidad a la paciente | Orden de 3 abr 2024 (BOJA 68), art. 10 · mira la norma de tu comunidad |
+| ⛔ | Diagnosticar o descartar una complicación por mensaje | Código 2022, art. 14.1 · regla de la escuela |
+| ⛔ | Ofrecer otro tratamiento en el mensaje de seguimiento sin su permiso | LSSI, art. 21 |
+| ⛔ | Publicar la foto clínica | Código 2022, art. 79.2 |
+| ⛔ | Confundir las indicaciones con el consentimiento informado | Ley 41/2002, art. 8 y 10: el consentimiento va antes y por separado |
+[Orientativo. No es asesoramiento jurídico]
+
+## H4 · Ensayo del cierre de la visita (capa 3 y práctica · 10 min)
+Con Vera o en pareja: 3 rondas de 30 s. La paciente dice «ya te llamo», «no sé qué día podré» y «¿hace falta?». El alumno fija fecha y hora las tres veces. Lista de comprobación: fecha · hora · apuntada en la hoja · sin presión.
+
+## Medida y rutina (capa 8)
+- **Cada semana (viernes, 5 min):** cuenta tus 10 últimos: hoja ✅ · revisión fijada ✅ · mensaje 2–3 días ✅. Meta: 10 de 10 en revisión fijada.
+- **Cada mes:** de las revisiones fijadas, cuántas vinieron. Si menos de la mitad: cambia la frase de 30 s (H4) y confirma la revisión con un mensaje el día antes.
+- **Si llegan mensajes por cosas normales:** tu bloque «qué es normal» no se entiende; reescríbelo más corto.
+- **Si nadie avisa nunca de nada:** comprueba que la hoja lleva el contacto fuera de horario.
+- El número va a «Mi diagnóstico»: «De 10, N con revisión fijada».
+
+## Test ampliado (8 casos; aprobado 6 de 8)
+Los 3 de «Lo esencial» y además:
+4. «Si tienes dudas, llámanos» en el bloque de avisos. ¿Vale? (✕: falta la señal concreta y el contacto fuera de horario).
+5. La paciente dice «no me hace falta revisión». ¿Qué haces? (✓ ofrecer fecha explicando para qué es; si no quiere, apuntarlo en la historia).
+6. ¿La hoja de indicaciones sustituye al consentimiento informado? (✕: el consentimiento se firma antes y por separado).
+7. Día 2: «me ha quedado asimétrico». (✓ que venga a verlo; ✕ discutir o prometer retoque por mensaje).
+8. Te piden la foto del resultado «para tus redes». ¿La usas? (✕ la foto clínica va a la historia y no se publica; Código 2022, art. 79.2).
+
+## Archivos
+Hoja de indicaciones en 5 bloques (PDF y texto para WhatsApp) · hoja «Mis 10 últimos tratados» con la cuenta en euros · guion de 30 s · lista de comprobación del cierre (H4).
+
 ---
 
 ## Corrector (paso 4) · frase a frase
@@ -75,4 +142,9 @@ Pega tu hoja en Ajustes → Tratamientos → Conocimiento: lo que Vera dice a tu
 | Funciones de la app | 🟢 | Solo Ajustes → Tratamientos → Conocimiento (visto en Lumina, 20 nov 23:58) |
 | Autonómico (Andalucía, Castilla-La Mancha) | 🟢 | Fuera del guion: va a los apuntes como ejemplo; CLM sin confirmar, no entra |
 
-**Resultado: 0 🔴 · 3 ⚠️ (las tres, preguntas 🩺 para Jorge en V-R4-1M-I).**
+| H1 casos 1–5 · H4 ensayo | ⚠️ | Frases de consulta: las valida Jorge (🩺, estándar §6) |
+| H3 Andalucía | 🟢 | BOJA 68/2024 comprobado; marcado «mira la de tu comunidad» |
+
+**Prueba de profundidad (estándar §5):** capas 1 ✓ (su cifra × sin revisión) · 2 ✓ (antes: hoja; durante: cierre; después: mensaje, alarma, revisión) · 3 ✓ (5 bien/mal) · 4 ✓ (5 casos) · 5 ✓ (7 errores) · 6 ✓ (✅ ⚠️ ⛔ con fuente) · 7 n/a (lección del itinerario; «Hazlo en Volvera» solo con literal aprobado) · 8 ✓. Mínimos: 6 capítulos + 4 talleres ✓ · ≈ 40 min ✓ · práctica con datos propios + ensayo ✓ · test 8 ✓ · hoja + lista ✓. Aprende algo un médico con 10 años: la cuenta en euros, la diferencia indicaciones/consentimiento, el «avísanos aunque no duela», la frase de 30 s y los límites del seguimiento ✓. Reconecta: «Manual Recorrência» solo como cobertura; no abierto (⚠️ pendiente, no bloquea).
+
+**Resultado: 0 🔴 · 4 ⚠️ (🩺 para Jorge en V-R4-1M-I).**

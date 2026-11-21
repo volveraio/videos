@@ -45,9 +45,18 @@
    "out_at": "Usa"
   },
   {
-   "at": "Guardar",
+   "at": "Ve",
+   "lead": 0.2,
    "x": 0,
-   "y": 110,
+   "y": 70,
+   "w": 400,
+   "html": "<div class=\"card\" style=\"padding:10px 12px\"><span class=\"tag ej\">Publicar › Nueva publicación</span><img src=\"../r5-5m-c/capturas/recortes/nueva-publicacion.jpg\" style=\"display:block;width:100%;margin-top:8px;border-radius:6px\"></div>",
+   "out_at": "Usa"
+  },
+  {
+   "at": "Guardar",
+   "x": 420,
+   "y": 150,
    "html": "<span class=\"pill\">Guardar borrador</span>",
    "out_at": "Usa"
   },

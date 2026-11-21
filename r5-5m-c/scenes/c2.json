@@ -17,7 +17,16 @@
    "y": 70,
    "cls": "chk",
    "html": "<i></i>Qué es",
-   "out_at": "botón"
+   "out_at": "botón",
+   "w": 300
+  },
+  {
+   "at": "qué",
+   "x": 330,
+   "y": 60,
+   "w": 310,
+   "html": "<div class=\"card\" style=\"padding:10px 12px\"><span class=\"tag ej\">Una acción · demostración</span><img src=\"../r5-5m-c/capturas/recortes/accion-1.jpg\" style=\"display:block;width:100%;margin-top:8px;border-radius:6px\"></div>",
+   "out_at": "Publicar"
   },
   {
    "at": "por",
@@ -25,7 +34,8 @@
    "y": 105,
    "cls": "chk",
    "html": "<i></i>Por qué sale",
-   "out_at": "botón"
+   "out_at": "botón",
+   "w": 300
   },
   {
    "at": "quién",
@@ -33,7 +43,8 @@
    "y": 140,
    "cls": "chk",
    "html": "<i></i>A quién le toca",
-   "out_at": "botón"
+   "out_at": "botón",
+   "w": 300
   },
   {
    "at": "Contestar",
@@ -116,21 +127,22 @@
    "at": "Marcar",
    "x": 0,
    "y": 80,
-   "w": 300,
-   "html": "<div class=\"card\"><span class=\"tag ok\">✓ Marcar como hecha</span><div class=\"quote\">La hiciste.</div></div>"
+   "w": 600,
+   "html": "<div class=\"card\" style=\"padding:10px 12px\"><span class=\"tag ej\">✓ Cierra cada una · así se ve</span><img src=\"../r5-5m-c/capturas/recortes/botones.jpg\" style=\"display:block;width:100%;margin-top:8px;border-radius:6px\"></div>"
   },
   {
    "at": "salto",
-   "x": 320,
-   "y": 80,
-   "w": 300,
-   "html": "<div class=\"card\"><span class=\"tag warn\">▲ La salto</span><div class=\"quote\">Saltar también es decidir.</div></div>"
+   "x": 0,
+   "y": 240,
+   "w": 600,
+   "html": "<i></i>▲ La salto: saltar también es decidir",
+   "cls": "chk"
   },
   {
    "at": "medias",
    "lead": 0.3,
    "x": 0,
-   "y": 220,
+   "y": 280,
    "w": 600,
    "cls": "chk no",
    "html": "<i></i>✕ Lo que no vale: dejarla a medias"

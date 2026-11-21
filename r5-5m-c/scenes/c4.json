@@ -40,8 +40,8 @@
    "at": "pasada",
    "x": 0,
    "y": 80,
-   "w": 420,
-   "html": "<div class=\"card\"><span class=\"tag ej\">Arriba, en Esta semana</span><div class=\"quote\">«La semana pasada · N de 5 hechas»</div></div>",
+   "w": 360,
+   "html": "<div class=\"card\" style=\"padding:10px 12px\"><span class=\"tag ej\">Arriba, en Esta semana · demostración</span><img src=\"../r5-5m-c/capturas/recortes/semana-pasada.jpg\" style=\"display:block;width:100%;margin-top:8px;border-radius:6px\"></div>",
    "out_at": "Diez"
   },
   {

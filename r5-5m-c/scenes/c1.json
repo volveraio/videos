@@ -14,9 +14,9 @@
   {
    "at": "Hoy",
    "x": 0,
-   "y": 110,
-   "w": 560,
-   "html": "<div class=\"card\"><span class=\"tag ej\">Hoy › Esta semana</span><div class=\"quote\">«Las 5 cosas que más citas te pueden dar, sacadas de tus datos.»</div></div>",
+   "y": 100,
+   "w": 600,
+   "html": "<div class=\"card\" style=\"padding:10px 12px\"><span class=\"tag ej\">Hoy › Esta semana · clínica de demostración</span><img src=\"../r5-5m-c/capturas/recortes/cabecera.jpg\" style=\"display:block;width:100%;margin-top:8px;border-radius:6px\"></div>",
    "out_at": "Fíjate"
   },
   {

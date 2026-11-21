@@ -24,3 +24,8 @@ Cada lunes, mira tus días sin cierre. La meta es cero.
 - ⚠️ 1: el límite de 1.000 € es norma (Ley 7/2012, art. 7, BOE consolidado); releer el texto en boe.es antes de grabar; la excepción de 10.000 € (no residentes) no va en la voz, sí en la chuleta → C52.
 - ⚠️ 2: «Neto devengado» y «Corregir recuento» salen en pantalla (no en la voz) → C51.
 - Prueba de profundidad: ✅ cada paso tiene tarea con datos propios (fondo de hoy, movimiento de hoy, cierre de hoy, 3 gastos del mes, quién cierra, número del lunes).
+
+## v1.1 · repaso con el código `main` 6a2a328 (Fábrica C, 21 nov 15:00)
+- Todos los nombres siguen: «Caja sin abrir hoy», «Abrir caja», «Fondo de caja», «Movimiento de caja», «Retirada», «Pequeño gasto», «Cerrar caja», «Efectivo contado», «Diferencia», «Corregir recuento», «Puntual», «Recurrente», «Neto devengado», «Racha: N días seguidos con caja cerrada». **La voz no cambia.**
+- ⚠️ **Quién llega:** Dinero › Caja y Dinero › Gastos solo se abren para quien administra y Finanzas (`useFinanceAccess`). Con el rol Recepción, la caja está en **Hoy › «Más» › «Caja · Ver estado»** (abrir, movimiento y cerrar), sin la racha. Gastos, no.
+- **Nota nueva del paso 1 (texto, no voz):** «Si no ves Dinero en el menú, abre la caja desde Hoy, «Más», «Caja · Ver estado». Los gastos los apunta quien administra o tiene Finanzas.» Va con **C69** (`claude/academia/para-aprobar-5.md`). ⏳ Ver en Lumina con un usuario Recepción (paso 6).

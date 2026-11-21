@@ -85,7 +85,7 @@
    "x": 0,
    "y": 270,
    "w": 500,
-   "html": "<div class=\"card\" style=\"padding:10px 12px\"><span class=\"tag ej\">Ventana cerrada · demostración</span><img src=\"../r2-5e-c/capturas/recortes/elegir-aprobado.jpg\" style=\"display:block;width:100%;margin-top:8px;border-radius:6px\"></div>",
+   "html": "<div class=\"card\"><span class=\"tag ej\">Ventana cerrada · botón</span><div class=\"quote\">Elegir mensaje aprobado</div></div>",
    "out_at": "queja"
   },
   {

@@ -1,5 +1,5 @@
 # R4-1M-I · L6 · Tratamiento y los días siguientes · Guion (paso 3) + corrector (paso 4)
-> v2 · 21 nov 01:15 · rehecho con el **estándar de profundidad** (8 capas, mínimos, prueba de profundidad). «Lo esencial» = capítulos 0–5 (≈ 10 min de vídeo, para hacerlo hoy); el resto va en «A fondo» (abajo). Tiempo del alumno: ≈ 40 min + práctica.
+> v2 · 21 nov 01:05 · rehecho con el **estándar de profundidad** (8 capas, mínimos, prueba de profundidad). «Lo esencial» = capítulos 0–5 (≈ 10 min de vídeo, para hacerlo hoy); el resto va en «A fondo» (abajo). Tiempo del alumno: ≈ 40 min + práctica.
 🏭 Fábrica A · 21 nov 2026, 01:05 (Madrid). Sale de `diseno.md` (00:05): conducta → tarea → contenido. Formato de L5 y L7: un vídeo de Vera por capítulo, textos de pantalla entre corchetes, tarea al final de cada capítulo. ≈ 10 min de voz en total. Lo clínico, siempre «lo pone el médico responsable».
 
 ## Capítulo 0 · ¿Qué hiciste con tu último tratado? (≈ 60 s)

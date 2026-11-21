@@ -1,5 +1,5 @@
 # R4-1M-I · L6 · Tratamiento y los días siguientes · Guion (paso 3) + corrector (paso 4)
-> v2 · 21 nov 01:05 · rehecho con el **estándar de profundidad** (8 capas, mínimos, prueba de profundidad). «Lo esencial» = capítulos 0–5 (≈ 10 min de vídeo, para hacerlo hoy); el resto va en «A fondo» (abajo). Tiempo del alumno: ≈ 40 min + práctica.
+> v2.1 · 21 nov 02:05 · capítulo 6 nuevo (aprobado por Jorge) pasado por el corrector · v2 · 21 nov 01:05 · rehecho con el **estándar de profundidad** (8 capas, mínimos, prueba de profundidad). «Lo esencial» = capítulos 0–5 (≈ 10 min de vídeo, para hacerlo hoy); el resto va en «A fondo» (abajo). Tiempo del alumno: ≈ 40 min + práctica.
 🏭 Fábrica A · 21 nov 2026, 01:05 (Madrid). Sale de `diseno.md` (00:05): conducta → tarea → contenido. Formato de L5 y L7: un vídeo de Vera por capítulo, textos de pantalla entre corchetes, tarea al final de cada capítulo. ≈ 10 min de voz en total. Lo clínico, siempre «lo pone el médico responsable».
 
 ## Capítulo 0 · ¿Qué hiciste con tu último tratado? (≈ 60 s)
@@ -39,6 +39,14 @@ Prepara tu frase de treinta segundos. Algo así: «Te quiero ver el día tal par
 Y ahora repite la cuenta del principio: tus diez últimos. ¿Cuántos tenían la revisión fijada? Ese número va a tu diagnóstico.
 [Tarea 2 · Tu guion de 30 s · «De 10, N con revisión fijada» → Mi diagnóstico]
 [Ejemplo · el intervalo lo pone el médico responsable]
+
+## Capítulo 6 · En la revisión: cómo está y la reseña (≈ 60 s) · nuevo, aprobado por Jorge (comentario del 21 nov, 01:25: «1»)
+Antes de que se levante de la revisión, dos preguntas, siempre las mismas. La primera: «¿Cómo te ves y cómo te encuentras?». La segunda: «¿Hay algo que te hubiera gustado que hiciéramos distinto?». Lo que conteste va a su historia. Si algo no va bien, se habla ahí, en persona, con el médico responsable.
+Y la reseña de Google se pide a todos por igual, no solo a quien está contento. Google no deja pedírsela solo a los satisfechos, ni dar nada a cambio, ni presionar en la consulta. Así que se dice una vez y sin insistir: «Si te apetece contar tu experiencia en Google, en esta tarjeta tienes cómo». Y se la lleva a casa.
+Nunca en el mensaje de los dos o tres días: ese mensaje es solo para saber cómo está.
+[Tarea 3 · Tus dos preguntas y tu frase para la reseña · se guardan en tu hoja de la revisión]
+[Fuente en pantalla: Google · Política de contenido aportado por los usuarios de Maps, «Contenido prohibido y restringido» (support.google.com/contributionpolicy/answer/7400114, consultado el 21 nov 2026)]
+[Mismo criterio que el curso «Tu ficha de Google y tus reseñas» (R1-3M-A, duda C3: tarjeta para casa; por mensaje, solo a quien aceptó mensajes de la clínica)]
 
 ## Test (3 casos) · textos de pantalla
 1. 22:30, paciente de relleno: «tengo una zona blanca, no me duele». ✅ Que venga hoy o mañana, o el teléfono de urgencias; a la historia · ❌ «Será un morado, ponte frío» · ❌ No contestar hasta el lunes.
@@ -142,6 +150,10 @@ Hoja de indicaciones en 5 bloques (PDF y texto para WhatsApp) · hoja «Mis 10 �
 | Funciones de la app | 🟢 | Solo Ajustes → Tratamientos → Conocimiento (visto en Lumina, 20 nov 23:58) |
 | Autonómico (Andalucía, Castilla-La Mancha) | 🟢 | Fuera del guion: va a los apuntes como ejemplo; CLM sin confirmar, no entra |
 
+| Cap. 6 «a todos por igual · sin nada a cambio · sin presionar en la consulta» | 🟢 | Google, Política de contenido de Maps, «Contenido prohibido y restringido» (answer/7400114, leída en la página original el 21 nov 2026): prohíbe incentivos, «solicitar reseñas positivas de clientes de forma selectiva» y «presionar … mientras se encuentren en el establecimiento» |
+| Cap. 6 «nunca en el mensaje de los 2–3 días» | 🟢 | Regla de la escuela (Jorge, 01:25): el seguimiento es asistencia, no se mezcla con pedir nada |
+| Cap. 6 tarjeta para casa y mensaje solo a quien aceptó | ⚠️ | Depende de C3 (R1-3M-A), aún sin respuesta de Jorge: si cambia C3, cambia esta frase |
+| Cap. 6 las dos preguntas | ⚠️ | Texto nuevo de la fábrica, sin cifras ni escala; lo ve Jorge con (d) |
 | H1 casos 1–5 · H4 ensayo | ⚠️ | Frases de consulta: las valida Jorge (🩺, estándar §6) |
 | H3 Andalucía | 🟢 | BOJA 68/2024 comprobado; marcado «mira la de tu comunidad» |
 

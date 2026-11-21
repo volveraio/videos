@@ -1,0 +1,136 @@
+{
+ "chap": "CAPÍTULO 3 · ESTA SEMANA",
+ "items": [
+  {
+   "at": "En",
+   "lead": 0.3,
+   "x": 0,
+   "y": 0,
+   "w": 640,
+   "cls": "h",
+   "html": "Tus publicaciones <span class=\"a\">de la semana</span>",
+   "out_at": "Ve"
+  },
+  {
+   "at": "Una",
+   "x": 0,
+   "y": 110,
+   "cls": "chk",
+   "html": "<i></i>1, 2 o 3 publicaciones",
+   "out_at": "Ve"
+  },
+  {
+   "at": "día",
+   "x": 0,
+   "y": 145,
+   "cls": "chk",
+   "html": "<i></i>Cada una con su día",
+   "out_at": "Ve"
+  },
+  {
+   "at": "empieza",
+   "x": 0,
+   "y": 200,
+   "w": 600,
+   "html": "<div class=\"card\"><span class=\"tag ej\">Si te sale en Esta semana</span><div class=\"quote\">Empieza por ese tratamiento: es el que tiene más huecos libres.</div></div>",
+   "out_at": "Ve"
+  },
+  {
+   "at": "Ve",
+   "x": 0,
+   "y": 0,
+   "w": 640,
+   "cls": "h",
+   "html": "Publicar › <span class=\"a\">Nueva publicación</span>",
+   "out_at": "Usa"
+  },
+  {
+   "at": "Guardar",
+   "x": 0,
+   "y": 110,
+   "html": "<span class=\"pill\">Guardar borrador</span>",
+   "out_at": "Usa"
+  },
+  {
+   "at": "Usa",
+   "x": 0,
+   "y": 0,
+   "w": 640,
+   "cls": "h",
+   "html": "Lo que lleva <span class=\"a\">y lo que no</span>",
+   "out_at": "Antes"
+  },
+  {
+   "at": "imágenes",
+   "x": 0,
+   "y": 75,
+   "cls": "chk",
+   "html": "<i></i>✓ Imágenes de tu clínica",
+   "out_at": "Antes"
+  },
+  {
+   "at": "pacientes",
+   "x": 0,
+   "y": 110,
+   "cls": "chk no",
+   "html": "<i></i>✕ Nunca pacientes",
+   "out_at": "Antes"
+  },
+  {
+   "at": "Explica",
+   "x": 0,
+   "y": 145,
+   "cls": "chk",
+   "html": "<i></i>✓ Qué es y para quién",
+   "out_at": "Antes"
+  },
+  {
+   "at": "Nombra",
+   "x": 0,
+   "y": 180,
+   "w": 600,
+   "cls": "chk",
+   "html": "<i></i>✓ El tratamiento, nunca una marca",
+   "out_at": "Antes"
+  },
+  {
+   "at": "prometer",
+   "x": 0,
+   "y": 215,
+   "cls": "chk no",
+   "html": "<i></i>✕ Sin prometer resultados",
+   "out_at": "Antes"
+  },
+  {
+   "at": "precio",
+   "x": 0,
+   "y": 250,
+   "cls": "chk no",
+   "html": "<i></i>✕ Sin el precio como reclamo",
+   "out_at": "Antes"
+  },
+  {
+   "at": "Antes",
+   "x": 0,
+   "y": 0,
+   "w": 640,
+   "cls": "h",
+   "html": "La aprueba <span class=\"a\">el médico</span>"
+  },
+  {
+   "at": "revisa",
+   "x": 0,
+   "y": 90,
+   "w": 560,
+   "html": "<div class=\"card\"><span class=\"tag ok\">✓ Antes de que salga</span><div class=\"quote\">«Nada sale sin la aprobación del médico.»</div></div>"
+  },
+  {
+   "at": "día",
+   "x": 0,
+   "y": 230,
+   "w": 600,
+   "cls": "chk",
+   "html": "<i></i>El día que toca, la publicas"
+  }
+ ]
+}

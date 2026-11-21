@@ -1,0 +1,72 @@
+{
+ "chap": "CAPÍTULO 4 · ESTA SEMANA",
+ "items": [
+  {
+   "at": "El",
+   "lead": 0.3,
+   "x": 0,
+   "y": 0,
+   "w": 640,
+   "cls": "h",
+   "html": "El viernes, <span class=\"a\">5 minutos</span>",
+   "out_at": "lunes"
+  },
+  {
+   "at": "Por",
+   "x": 0,
+   "y": 80,
+   "cls": "chk",
+   "html": "<i></i>Nada en «Por hacer»",
+   "out_at": "lunes"
+  },
+  {
+   "at": "publicaciones",
+   "x": 0,
+   "y": 115,
+   "cls": "chk",
+   "html": "<i></i>¿Salieron tus publicaciones?",
+   "out_at": "lunes"
+  },
+  {
+   "at": "lunes",
+   "x": 0,
+   "y": 0,
+   "w": 640,
+   "cls": "h",
+   "html": "El lunes, <span class=\"a\">la semana pasada</span>",
+   "out_at": "Diez"
+  },
+  {
+   "at": "pasada",
+   "x": 0,
+   "y": 80,
+   "w": 420,
+   "html": "<div class=\"card\"><span class=\"tag ej\">Arriba, en Esta semana</span><div class=\"quote\">«La semana pasada · N de 5 hechas»</div></div>",
+   "out_at": "Diez"
+  },
+  {
+   "at": "tres",
+   "x": 0,
+   "y": 220,
+   "w": 620,
+   "cls": "chk no",
+   "html": "<i></i>▲ ¿Saltada 3 semanas seguidas? Pregúntate por qué.",
+   "out_at": "Diez"
+  },
+  {
+   "at": "Diez",
+   "x": 0,
+   "y": 0,
+   "w": 640,
+   "cls": "h",
+   "html": "Diez minutos <span class=\"a\">cada lunes</span>"
+  },
+  {
+   "at": "Empieza",
+   "lead": 0.4,
+   "x": 0,
+   "y": 90,
+   "html": "<span class=\"pill\">Tu turno · empieza este lunes</span>"
+  }
+ ]
+}

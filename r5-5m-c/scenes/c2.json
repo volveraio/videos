@@ -1,0 +1,139 @@
+{
+ "chap": "CAPÍTULO 2 · ESTA SEMANA",
+ "items": [
+  {
+   "at": "Cada",
+   "lead": 0.3,
+   "x": 0,
+   "y": 0,
+   "w": 640,
+   "cls": "h",
+   "html": "Cada acción <span class=\"a\">dice tres cosas</span>",
+   "out_at": "botón"
+  },
+  {
+   "at": "qué",
+   "x": 0,
+   "y": 70,
+   "cls": "chk",
+   "html": "<i></i>Qué es",
+   "out_at": "botón"
+  },
+  {
+   "at": "por",
+   "x": 0,
+   "y": 105,
+   "cls": "chk",
+   "html": "<i></i>Por qué sale",
+   "out_at": "botón"
+  },
+  {
+   "at": "quién",
+   "x": 0,
+   "y": 140,
+   "cls": "chk",
+   "html": "<i></i>A quién le toca",
+   "out_at": "botón"
+  },
+  {
+   "at": "Contestar",
+   "x": 0,
+   "y": 190,
+   "w": 300,
+   "html": "<div class=\"card\"><span class=\"tag ok\">✓ Le toca: Recepción</span><div class=\"quote\">Contestar · ofrecer huecos · recordar un presupuesto</div></div>",
+   "out_at": "botón"
+  },
+  {
+   "at": "pásaselo",
+   "x": 0,
+   "y": 330,
+   "w": 300,
+   "cls": "p",
+   "html": "<b>Pásaselo el lunes, con una hora.</b>",
+   "out_at": "botón"
+  },
+  {
+   "at": "Publicar",
+   "x": 320,
+   "y": 190,
+   "w": 300,
+   "html": "<div class=\"card\"><span class=\"tag ej\">✓ Te toca a ti</span><div class=\"quote\">Publicar sobre el tratamiento con más huecos</div></div>",
+   "out_at": "botón"
+  },
+  {
+   "at": "botón",
+   "x": 0,
+   "y": 0,
+   "w": 640,
+   "cls": "h",
+   "html": "Cada botón te lleva <span class=\"a\">a donde se hace</span>",
+   "out_at": "Las"
+  },
+  {
+   "at": "conversaciones",
+   "x": 0,
+   "y": 110,
+   "w": 620,
+   "cls": "chk",
+   "html": "<i></i>Conversaciones · huecos · anuncios · publicaciones",
+   "out_at": "Las"
+  },
+  {
+   "at": "Nada",
+   "x": 0,
+   "y": 170,
+   "w": 560,
+   "html": "<div class=\"card\"><span class=\"tag ok\">✓ Lo confirmas tú</span><div class=\"quote\">«Nada se envía, publica ni gasta sin que confirmes.»</div></div>",
+   "out_at": "Las"
+  },
+  {
+   "at": "Las",
+   "x": 0,
+   "y": 0,
+   "w": 640,
+   "cls": "h",
+   "html": "Estimaciones, <span class=\"a\">no promesas</span>",
+   "out_at": "cierra"
+  },
+  {
+   "at": "regla",
+   "x": 0,
+   "y": 70,
+   "w": 560,
+   "cls": "p",
+   "html": "Las citas que ves al lado salen de <b>una regla fija</b>.",
+   "out_at": "cierra"
+  },
+  {
+   "at": "cierra",
+   "x": 0,
+   "y": 0,
+   "w": 640,
+   "cls": "h",
+   "html": "Cierra <span class=\"a\">cada una</span>"
+  },
+  {
+   "at": "Marcar",
+   "x": 0,
+   "y": 80,
+   "w": 300,
+   "html": "<div class=\"card\"><span class=\"tag ok\">✓ Marcar como hecha</span><div class=\"quote\">La hiciste.</div></div>"
+  },
+  {
+   "at": "salto",
+   "x": 320,
+   "y": 80,
+   "w": 300,
+   "html": "<div class=\"card\"><span class=\"tag warn\">▲ La salto</span><div class=\"quote\">Saltar también es decidir.</div></div>"
+  },
+  {
+   "at": "medias",
+   "lead": 0.3,
+   "x": 0,
+   "y": 220,
+   "w": 600,
+   "cls": "chk no",
+   "html": "<i></i>✕ Lo que no vale: dejarla a medias"
+  }
+ ]
+}

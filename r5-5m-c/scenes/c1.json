@@ -1,0 +1,72 @@
+{
+ "chap": "CAPÍTULO 1 · ESTA SEMANA",
+ "items": [
+  {
+   "at": "Cada",
+   "lead": 0.3,
+   "x": 0,
+   "y": 0,
+   "w": 640,
+   "cls": "h",
+   "html": "Tu lunes de <span class=\"a\">10 minutos</span>",
+   "out_at": "Fíjate"
+  },
+  {
+   "at": "Hoy",
+   "x": 0,
+   "y": 110,
+   "w": 560,
+   "html": "<div class=\"card\"><span class=\"tag ej\">Hoy › Esta semana</span><div class=\"quote\">«Las 5 cosas que más citas te pueden dar, sacadas de tus datos.»</div></div>",
+   "out_at": "Fíjate"
+  },
+  {
+   "at": "Fíjate",
+   "x": 0,
+   "y": 0,
+   "w": 640,
+   "cls": "h",
+   "html": "Fíjate en <span class=\"a\">los números</span>",
+   "out_at": "Ponte"
+  },
+  {
+   "at": "presupuestos",
+   "x": 0,
+   "y": 80,
+   "w": 560,
+   "html": "<div class=\"card\"><span class=\"tag warn\">▲ Ejemplo</span><div class=\"quote\">N presupuestos sin respuesta desde hace 7 días · suman N €</div></div>",
+   "out_at": "Ponte"
+  },
+  {
+   "at": "parado",
+   "x": 0,
+   "y": 220,
+   "w": 600,
+   "cls": "chk",
+   "html": "<i></i>Dinero parado en tu clínica, no en un estudio",
+   "out_at": "Ponte"
+  },
+  {
+   "at": "Ponte",
+   "x": 0,
+   "y": 0,
+   "w": 640,
+   "cls": "h",
+   "html": "Una cita fija <span class=\"a\">contigo</span>"
+  },
+  {
+   "at": "lunes",
+   "x": 0,
+   "y": 90,
+   "w": 600,
+   "cls": "chk",
+   "html": "<i></i>El lunes, antes de la primera paciente"
+  },
+  {
+   "at": "Diez",
+   "lead": 0.4,
+   "x": 0,
+   "y": 150,
+   "html": "<span class=\"pill\">Tu turno · pon tu cita del lunes</span>"
+  }
+ ]
+}

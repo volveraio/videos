@@ -1,0 +1,6 @@
+# R3-2M-A · capturas de Lumina (21 nov 2026, 17:58, solo mirar, nada guardado)
+- `hoy-por-confirmar.png` · Hoy › «Ahora»: tarjeta **«Por confirmar · 3 de mañana · la primera, 16:00 · Ver y confirmar»** (el guion decía «Citas de mañana sin confirmar»).
+- `recordatorio-whatsapp-24h-72h.jpg` · Ajustes › Citas › «Recordatorios y señal» › «Recordatorio por WhatsApp» (Apagado · Activar): «Se envían solos 24 h antes… entre las 9:00 y las 21:00. SÍ → confirmada; NO → se anula y el hueco se ofrece a la lista de espera; cambiar u otra cosa → aviso». Casilla ✓ «También 72 h antes en citas de 60 min o más (reservadas con más de 4 días de antelación)».
+- `recordatorio-texto-y-botones.jpg` · Texto por defecto «Hola {nombre}, te recordamos tu cita en {clinica} el {fecha} a las {hora}. Responde SÍ para confirmar, CAMBIAR si necesitas otra hora o NO si no puedes venir.» · Botones «Sí, confirmo · Cambiar hora · No puedo ir».
+- Sin captura (texto leído): respuesta al NO «Hecho, hemos anulado tu cita… Si quieres buscar otro día, escríbenos por aquí.» (no pregunta por qué ✅) · interruptor **«No enviar el recordatorio si la cita ya está confirmada» · apagado** por defecto.
+Sin nombres reales: «María» es el ejemplo fijo de la app.
